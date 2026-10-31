@@ -1,0 +1,226 @@
+asr_model,call_id,channel_index,speaker_role,segment_id,start_s,end_s,asr_text,avg_logprob,no_speech_prob
+medium.en,08f360b3f3b844ef,2,agent,0,1.84,7.26,"Hello, this is Harbor Valley National Bank. My name is Robert. How can I help you today?",-0.158,0.044
+medium.en,08f360b3f3b844ef,1,caller,0,10.89,14.59,Hi. My name is Linda Smith. I need to check my account balance.,-0.185,0.384
+medium.en,08f360b3f3b844ef,2,agent,1,14.5,16.3,"Sure, I'd be happy to do that for you.",-0.158,0.044
+medium.en,08f360b3f3b844ef,2,agent,2,18.02,19.46,"And what's your name, please?",-0.158,0.044
+medium.en,08f360b3f3b844ef,2,agent,3,20.82,24.04,"Oh, right, it's Linda Smith. Sorry about that. Linda Smith, right.",-0.158,0.044
+medium.en,08f360b3f3b844ef,1,caller,1,23.1,35.58,"Linda Smith. All is well. I'd like to check my checking account, please.",-0.185,0.384
+medium.en,08f360b3f3b844ef,2,agent,4,25.32,30.02,"Alright, I'm in. And which account would you like to check? Your savings account or your checking account?",-0.158,0.044
+medium.en,08f360b3f3b844ef,2,agent,5,42.2,45.32,Your checking account balance is $90 exactly.,-0.158,0.044
+medium.en,08f360b3f3b844ef,1,caller,2,49.76,58.28,Fantastic. That's all I needed. Nope. That'll be everything. Thank you very much.,-0.185,0.384
+medium.en,08f360b3f3b844ef,2,agent,6,50.36,52.14,Great. Is there anything else I could help you with today?,-0.158,0.044
+medium.en,08f360b3f3b844ef,2,agent,7,56.62,58.12,"Thank you for calling, have a great day.",-0.356,0.014
+medium.en,08f360b3f3b844ef,1,caller,3,60.52,61.48,useful,-0.853,0.03
+medium.en,09fc75fc02ea4b46,2,agent,0,1.78,6.04,"Hello, this is Harper Valley National Bank. My name is John. How can I help you today?",-0.157,0.04
+medium.en,09fc75fc02ea4b46,1,caller,0,9.74,15.06,"Hi, my name is Michael Jones. I need a new checkbook",-0.308,0.006
+medium.en,09fc75fc02ea4b46,2,agent,1,16.39,17.67,What is your address?,-0.157,0.04
+medium.en,09fc75fc02ea4b46,1,caller,1,21.21,23.53,my address is,-0.308,0.006
+medium.en,09fc75fc02ea4b46,1,caller,2,23.53,25.77,seven three four,-0.308,0.006
+medium.en,09fc75fc02ea4b46,1,caller,3,26.69,27.91,Main Street,-0.308,0.006
+medium.en,09fc75fc02ea4b46,2,agent,2,35.18,56.28,Mm-hmm a,-0.157,0.04
+medium.en,09fc75fc02ea4b46,1,caller,4,38.48,39.6,Harper Valley,-0.308,0.006
+medium.en,09fc75fc02ea4b46,1,caller,5,42.42,44.28,Oregon Oh,-0.308,0.006
+medium.en,09fc75fc02ea4b46,1,caller,6,47.8,49.02,one three,-0.308,0.006
+medium.en,09fc75fc02ea4b46,1,caller,7,49.02,50.24,two five,-0.308,0.006
+medium.en,09fc75fc02ea4b46,2,agent,3,56.28,61.04,New checkbook has been sent to your home address. Is there anything else I can help you with?,-0.157,0.04
+medium.en,09fc75fc02ea4b46,1,caller,8,64.42,66.0,"No, that was it",-0.308,0.006
+medium.en,09fc75fc02ea4b46,2,agent,4,65.47,67.37,Thank you for calling. Have a great day,-0.157,0.04
+medium.en,09fc75fc02ea4b46,1,caller,9,70.07,71.61,You too. Thanks,-0.308,0.006
+medium.en,0dee81761a5c45f9,2,agent,0,2.7,7.58,"Hello, this is Harper Valley National Bank. My nickname is Robert. How can I help you",-0.154,0.022
+medium.en,0dee81761a5c45f9,2,agent,1,7.58,36.78,"today? I'm sorry, can you repeat that for me? Which account would you like to check?",-0.154,0.022
+medium.en,0dee81761a5c45f9,1,caller,0,11.44,32.81,"Hi, my name is Michael Davis. I need to check my account balance. I need to check my account balance",-0.192,0.004
+medium.en,0dee81761a5c45f9,1,caller,1,39.94,59.1,"My savings account no, that's it",-0.192,0.004
+medium.en,0dee81761a5c45f9,2,agent,2,44.04,59.79,Your savings account balance is $46. Is there anything else I can help you with? Thank you,-0.154,0.022
+medium.en,0dee81761a5c45f9,2,agent,3,59.79,61.29,for calling. Have a great day.,-0.154,0.022
+medium.en,0f87dc392db84250,2,agent,0,2.18,7.6,Hello. This is Hupa Valley National Bank. My name is Jennifer. How can I help you today?,-0.246,0.108
+medium.en,0f87dc392db84250,1,caller,0,9.74,13.08,"Hi, my name is James Brown. I need a new checkbook.",-0.296,0.012
+medium.en,0f87dc392db84250,2,agent,1,16.63,50.84,"Okay. What is your address? Okay, ma'am, a new checkbook has been sent to your address.",-0.246,0.108
+medium.en,0f87dc392db84250,1,caller,1,24.95,42.34,"545 Main Street, Forest Ranch, California, 58558.",-0.296,0.012
+medium.en,0f87dc392db84250,2,agent,2,51.12,60.86,Is there anything else I can help you with? Okay. Thank you for calling. Have a great,-0.246,0.108
+medium.en,0f87dc392db84250,1,caller,2,55.4,57.34,"No, that's it. Thank you.",-0.296,0.012
+medium.en,0f87dc392db84250,2,agent,3,60.86,66.45,day. Bye.,-0.246,0.108
+medium.en,0f87dc392db84250,1,caller,3,63.43,64.43,You too. Goodbye.,-0.296,0.012
+medium.en,37a7a35a1e244820,2,agent,0,3.12,8.22,"Hello, this is Harper Valley National Bank. My name is Jennifer. How can I help you today?",-0.186,0.014
+medium.en,37a7a35a1e244820,1,caller,0,9.14,13.22,"Hi, my name is Linda Williams. What are their local branch hours?",-0.22,0.024
+medium.en,37a7a35a1e244820,2,agent,1,19.86,23.62,The branch hours are 9 30 a.m. To 5 p.m.,-0.186,0.014
+medium.en,37a7a35a1e244820,1,caller,1,25.32,37.19,Okay. Thank you. Um,-0.22,0.024
+medium.en,37a7a35a1e244820,1,caller,2,37.19,39.52,That's what I need for today. Thank you so much,-0.22,0.024
+medium.en,37a7a35a1e244820,2,agent,2,43.12,44.72,Thank you for calling. Have a great day!,-0.186,0.014
+medium.en,37a7a35a1e244820,1,caller,3,45.46,46.78,You too. Bye,-0.22,0.024
+medium.en,3bb5582020c24ae9,2,agent,0,1.78,6.5,"Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?",-0.138,0.009
+medium.en,3bb5582020c24ae9,1,caller,0,7.7,11.36,"Hi, my name is James Garcia. I would like to pay a bill.",-0.245,0.008
+medium.en,3bb5582020c24ae9,2,agent,1,13.56,14.72,What is the company name?,-0.138,0.009
+medium.en,3bb5582020c24ae9,1,caller,1,16.23,18.45,The company is Smart Electric.,-0.245,0.008
+medium.en,3bb5582020c24ae9,2,agent,2,20.21,21.81,What is the company address?,-0.138,0.009
+medium.en,3bb5582020c24ae9,1,caller,2,23.56,27.94,"The address is 714 1st Street,",-0.245,0.008
+medium.en,3bb5582020c24ae9,1,caller,3,31.64,32.98,"Forest Ranch,",-0.245,0.008
+medium.en,3bb5582020c24ae9,1,caller,4,34.3,34.84,"Oregon,",-0.245,0.008
+medium.en,3bb5582020c24ae9,1,caller,5,39.8,40.6,33418.,-0.245,0.008
+medium.en,3bb5582020c24ae9,2,agent,3,42.23,43.53,What is the bill amount?,-0.138,0.009
+medium.en,3bb5582020c24ae9,1,caller,6,44.81,46.91,The amount of the bill is $89.,-0.245,0.008
+medium.en,3bb5582020c24ae9,2,agent,4,49.75,54.49,We will send your payment to Smart Electric. Is there anything else I can help you with?,-0.138,0.009
+medium.en,3bb5582020c24ae9,1,caller,7,55.62,56.48,"No, thank you.",-0.245,0.008
+medium.en,3bb5582020c24ae9,2,agent,5,57.47,59.25,Thank you for calling. Have a great day.,-0.138,0.009
+medium.en,45c7998bd5eb4101,2,agent,0,0.0,6.26,"Hello, this is Akavali National Bank. My name is Linda. How can I help you today?",-0.2,0.055
+medium.en,45c7998bd5eb4101,1,caller,0,9.39,13.11,"Hi, my name is Elizabeth Brown. I would like to schedule an appointment",-0.255,0.012
+medium.en,45c7998bd5eb4101,2,agent,1,16.94,30.03,What day would you like for your appointment? What time would you like for your appointment?,-0.2,0.055
+medium.en,45c7998bd5eb4101,1,caller,1,22.58,23.16,Tuesday,-0.255,0.012
+medium.en,45c7998bd5eb4101,1,caller,2,34.16,35.44,1045 a.m.,-0.255,0.012
+medium.en,45c7998bd5eb4101,2,agent,2,36.98,65.17,"10.45, you said? Your appointments have been scheduled for Tuesday at 10.45 a.m.",-0.2,0.055
+medium.en,45c7998bd5eb4101,1,caller,3,41.8,43.8,"Yes, 1045 a.m.",-0.255,0.012
+medium.en,45c7998bd5eb4101,2,agent,3,65.23,75.18,Is there anything else I can help you with? Thank you for calling. Have a great day.,-0.2,0.055
+medium.en,45c7998bd5eb4101,1,caller,4,70.55,79.28,"No, that's all thank you. You too. Bye",-0.255,0.012
+medium.en,51cb5e31125c4235,2,agent,0,1.62,4.42,"Hello, this is Harper Valley National Bank.",-0.212,0.029
+medium.en,51cb5e31125c4235,2,agent,1,4.54,6.64,My name is John. How can I help you today?,-0.212,0.029
+medium.en,51cb5e31125c4235,1,caller,0,9.65,14.23,"Hi, John. My name is Jennifer Davis. I was wondering what your local branch hours are.",-0.177,0.005
+medium.en,51cb5e31125c4235,2,agent,2,14.27,17.27,The branch hours are 9.30 a.m. to 5 p.m.,-0.212,0.029
+medium.en,51cb5e31125c4235,1,caller,1,21.0,22.66,Wonderful. Thank you so much.,-0.177,0.005
+medium.en,51cb5e31125c4235,2,agent,3,23.58,26.8,Is there anything else I can help you with?,-0.212,0.029
+medium.en,51cb5e31125c4235,1,caller,2,30.27,31.39,"Nope, that'll do it.",-0.177,0.005
+medium.en,51cb5e31125c4235,2,agent,4,30.36,32.32,Thank you for calling. Have a great day.,-0.212,0.029
+medium.en,51cb5e31125c4235,1,caller,3,35.23,36.61,You too. Thank you so much.,-0.177,0.005
+medium.en,663201e33f1a4e38,2,agent,0,2.74,6.24,"Hello, this is Harper Valley National Bank.",-0.202,0.01
+medium.en,663201e33f1a4e38,2,agent,1,6.88,7.82,My name is Mary.,-0.202,0.01
+medium.en,663201e33f1a4e38,2,agent,2,8.2,9.48,How can I help you today?,-0.202,0.01
+medium.en,663201e33f1a4e38,1,caller,0,13.07,17.97,"Hi, my name is Linda Miller. I would like to transfer money between my accounts.",-0.227,0.016
+medium.en,663201e33f1a4e38,2,agent,3,17.38,17.82,Okay.,-0.202,0.01
+medium.en,663201e33f1a4e38,2,agent,4,27.74,29.58,What is the transfer amount?,-0.202,0.01
+medium.en,663201e33f1a4e38,1,caller,1,33.48,51.48,The amount is $147. I'd like it sourced from my savings account and sent to my checking.,-0.227,0.016
+medium.en,663201e33f1a4e38,2,agent,5,42.16,43.72,What is the source account?,-0.202,0.01
+medium.en,663201e33f1a4e38,2,agent,6,61.3,66.28,"Okay, $147 has been transferred from your savings account",-0.202,0.01
+medium.en,663201e33f1a4e38,2,agent,7,66.28,67.82,to your checking account.,-0.202,0.01
+medium.en,663201e33f1a4e38,2,agent,8,74.03,76.29,Is there anything else I can help you with?,-0.202,0.01
+medium.en,663201e33f1a4e38,1,caller,2,74.58,82.27,I don't know. It looks like we should be good.,-0.227,0.016
+medium.en,663201e33f1a4e38,2,agent,9,81.52,82.12,All right.,-0.202,0.01
+medium.en,663201e33f1a4e38,2,agent,10,82.9,84.08,Thank you for calling.,-0.202,0.01
+medium.en,663201e33f1a4e38,2,agent,11,84.08,85.36,and have a great day.,-0.53,0.013
+medium.en,7394fcc2bcb94c69,2,agent,0,2.0,6.72,"Hello, this is Harper Valley National Bank. My name is David. How can I help you today?",-0.206,0.101
+medium.en,7394fcc2bcb94c69,1,caller,0,10.29,15.73,"Hi, my name is James Brown. I lost my credit card. Can you send me a new one?",-0.147,0.01
+medium.en,7394fcc2bcb94c69,2,agent,1,15.38,15.58,Yes,-0.206,0.101
+medium.en,7394fcc2bcb94c69,2,agent,2,16.54,19.58,"One moment, which card would you like to replace?",-0.206,0.101
+medium.en,7394fcc2bcb94c69,1,caller,1,23.42,24.38,My credit card.,-0.147,0.01
+medium.en,7394fcc2bcb94c69,2,agent,3,25.67,29.71,"But okay, perfect. Your new credit card has been ordered and will be on the way soon",-0.206,0.101
+medium.en,7394fcc2bcb94c69,2,agent,4,32.48,34.7,Is there anything else I can help you with?,-0.206,0.101
+medium.en,7394fcc2bcb94c69,1,caller,2,34.41,35.25,Great. Thank you.,-0.147,0.01
+medium.en,7394fcc2bcb94c69,2,agent,5,37.96,39.94,Okay. Thank you for calling. Have a great day,-0.206,0.101
+medium.en,7394fcc2bcb94c69,1,caller,3,38.17,43.93,"No, that was all. Bye. Have a good day.",-0.147,0.01
+medium.en,796158bf207f4888,2,agent,0,1.39,3.81,"Hello, this is Harper Valley National Bank.",-0.168,0.004
+medium.en,796158bf207f4888,2,agent,1,3.91,5.77,My name is David. How can I help you today?,-0.168,0.004
+medium.en,796158bf207f4888,1,caller,0,9.04,21.19,"Hello, my name is Robert Rodriguez. I need to reset. I would like to reset my password. My phone number is",-0.239,0.037
+medium.en,796158bf207f4888,2,agent,2,14.82,15.84,What is your phone number?,-0.168,0.004
+medium.en,796158bf207f4888,1,caller,1,23.03,24.69,One nine seven,-0.239,0.037
+medium.en,796158bf207f4888,1,caller,2,25.91,27.27,Five five two,-0.239,0.037
+medium.en,796158bf207f4888,1,caller,3,28.53,49.08,"Two four two four. No, that was going to be it for today. Thank you. You too. Bye",-0.239,0.037
+medium.en,796158bf207f4888,2,agent,3,32.63,35.99,Your password reset link has been sent to your phone.,-0.168,0.004
+medium.en,796158bf207f4888,2,agent,4,36.15,37.71,Is there anything else I can help you with?,-0.168,0.004
+medium.en,796158bf207f4888,2,agent,5,43.06,44.7,Thank you for calling. Have a great day.,-0.168,0.004
+medium.en,7f3d383f8aff498d,1,agent,0,4.72,11.18,"Hello, this is Harbor Valley National Bank. My name is John. How can I help you today?",-0.194,0.003
+medium.en,7f3d383f8aff498d,2,caller,0,10.25,23.87,"Hi, my name is Mary Smith, I need to check my account balance, my checking account.",-0.416,0.012
+medium.en,7f3d383f8aff498d,1,agent,1,22.28,23.66,Which account would you like to check?,-0.194,0.003
+medium.en,7f3d383f8aff498d,1,agent,2,31.44,33.5,Your checking account balance is,-0.194,0.003
+medium.en,7f3d383f8aff498d,1,agent,3,35.76,49.8,$115. Is there anything else I can help you with? All right. Thank you for calling. Have a great day.,-0.194,0.003
+medium.en,7f3d383f8aff498d,2,caller,1,36.56,48.93,"Oh wow, okay, that is it, thank you very much, thank you.",-0.416,0.012
+medium.en,8b04254fc6b447b1,2,agent,0,1.01,5.63,"Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?",-0.171,0.049
+medium.en,8b04254fc6b447b1,1,caller,0,8.59,13.47,"Hi, my name is Linda Miller. I would like to transfer money between my account.",-0.175,0.01
+medium.en,8b04254fc6b447b1,2,agent,1,12.79,29.1,What is the transfer amount? What is the source account? What is the destination account?,-0.171,0.049
+medium.en,8b04254fc6b447b1,1,caller,1,18.64,35.16,The amount is $133. It's from my savings. I want to transfer it to my checking account.,-0.175,0.01
+medium.en,8b04254fc6b447b1,2,agent,2,34.96,40.82,Is there anything else I can – $133 has been transferred from your savings account to your checking account.,-0.171,0.049
+medium.en,8b04254fc6b447b1,2,agent,3,41.38,50.16,Is there anything else I can help you with? Thank you for calling. Have a great day.,-0.171,0.049
+medium.en,8b04254fc6b447b1,1,caller,2,47.12,49.72,That's actually all I need for today. Thank you so much.,-0.175,0.01
+medium.en,8b04254fc6b447b1,1,caller,3,53.6,54.36,You too. Bye.,-0.175,0.01
+medium.en,8c86097e491544df,2,agent,0,1.58,6.68,"Hello, this is Harbor Valley National Bank. My name is Joan. How can I help you today?",-0.215,0.05
+medium.en,8c86097e491544df,1,caller,0,9.49,13.61,"Hi, Joan. My name is Michael Smith. I need to check my account balance.",-0.289,0.004
+medium.en,8c86097e491544df,2,agent,1,12.71,14.23,"Sure, I can help you with that.",-0.215,0.05
+medium.en,8c86097e491544df,2,agent,2,15.01,16.73,Which account would you like to check?,-0.215,0.05
+medium.en,8c86097e491544df,1,caller,1,20.13,37.79,"My checking account? Nope, that was it. You too. Thank you.",-0.289,0.004
+medium.en,8c86097e491544df,2,agent,3,21.35,22.31,"Sure, so",-0.215,0.05
+medium.en,8c86097e491544df,2,agent,4,22.31,28.59,your checking account balance is $84. Is there anything else I can help you with?,-0.215,0.05
+medium.en,8c86097e491544df,2,agent,5,31.82,34.1,Okay. Thank you for calling. Have a great day.,-0.215,0.05
+medium.en,8c86097e491544df,2,agent,6,37.22,37.7,Bye now.,-0.215,0.05
+medium.en,8cee43b11a144b7d,2,agent,0,1.3,6.16,Hello this is Harper Valley National Bank my name is Linda how can I help you,-0.173,0.091
+medium.en,8cee43b11a144b7d,2,agent,1,6.16,28.08,today? Okay what is the company name that you want to pay? Okay and what is the,-0.173,0.091
+medium.en,8cee43b11a144b7d,1,caller,0,10.1,23.74,"Hi, my name is Jennifer Wilson. I would like to pay a bill. The company is Fossil Gas.",-0.389,0.051
+medium.en,8cee43b11a144b7d,2,agent,2,28.08,55.4,company address? Okay so that was seven six nine First Street Harper Valley,-0.173,0.091
+medium.en,8cee43b11a144b7d,1,caller,1,32.42,36.42,"The address is 769 1st Street,",-0.389,0.051
+medium.en,8cee43b11a144b7d,1,caller,2,37.48,38.9,"Harper Valley,",-0.389,0.051
+medium.en,8cee43b11a144b7d,1,caller,3,40.18,40.72,"Oregon,",-0.389,0.051
+medium.en,8cee43b11a144b7d,1,caller,4,44.44,45.38,80968.,-0.389,0.051
+medium.en,8cee43b11a144b7d,2,agent,3,55.4,74.15,Oregon seven zero nine six eight is that correct? Okay okay and what is the book,-0.173,0.091
+medium.en,8cee43b11a144b7d,1,caller,5,64.7,79.0,80968. $65.,-0.389,0.051
+medium.en,8cee43b11a144b7d,2,agent,4,74.15,86.8,"bill amount. Okay, we will send your payment to Fossil Gas. Is there anything else I can",-0.214,0.029
+medium.en,8cee43b11a144b7d,1,caller,6,79.0,97.75,"dollars. Nope, that's gonna be it. Thank you. You too.",-0.296,0.065
+medium.en,8cee43b11a144b7d,2,agent,5,86.8,96.94,"help you with? Okay, thank you for calling and have a great day. Bye.",-0.214,0.029
+medium.en,92f32a1665c04695,2,agent,0,1.95,6.79,Hello. This is Hopper Valley National Bank. My name is Mary. How can I help you today?,-0.156,0.034
+medium.en,92f32a1665c04695,1,caller,0,9.58,14.7,"Hi, my name is Linda Brown. I lost my debit card. Can you send me a new one?",-0.276,0.012
+medium.en,92f32a1665c04695,2,agent,1,14.07,15.81,Okay. You'd like to replace your debit card?,-0.156,0.034
+medium.en,92f32a1665c04695,1,caller,1,19.3,21.12,"Yes, my debit card.",-0.276,0.012
+medium.en,92f32a1665c04695,2,agent,2,19.94,23.54,I've ordered your replacement debit card. Is there anything else I can help you with?,-0.156,0.034
+medium.en,92f32a1665c04695,1,caller,2,26.68,28.94,"Oh no, it's actually what I need for today. Thank you.",-0.276,0.012
+medium.en,92f32a1665c04695,2,agent,3,27.91,30.51,You're welcome. Thank you for calling. Have a great day.,-0.156,0.034
+medium.en,92f32a1665c04695,1,caller,3,33.52,34.4,You too. Bye.,-0.276,0.012
+medium.en,96c25385230d4172,2,agent,0,2.16,5.44,"Hello, this is Harper Valley National Bank. My name is Linda.",-0.17,0.027
+medium.en,96c25385230d4172,1,caller,0,7.6,14.26,"Hi, my name is Mary Jones. I lost my debit card. Can you send me a new one?",-0.233,0.024
+medium.en,96c25385230d4172,2,agent,1,17.92,32.35,Which card would you like to replace? I've ordered your replacement debit card.,-0.17,0.027
+medium.en,96c25385230d4172,1,caller,1,21.58,44.14,"My debit card. No, that's all I needed help with. Thank you. Bye bye. Thanks. Bye.",-0.233,0.024
+medium.en,96c25385230d4172,2,agent,2,33.53,38.4,Is there anything else I can help you with? Thank you for calling.,-0.17,0.027
+medium.en,96c25385230d4172,2,agent,3,40.36,41.26,Have a great day.,-0.17,0.027
+medium.en,9e05bd9ca9564089,2,agent,0,1.39,5.63,"Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?",-0.166,0.028
+medium.en,9e05bd9ca9564089,1,caller,0,10.0,17.3,"Yes, hi, my name is Mary Wilson and I would what are the local branch hours?",-0.244,0.009
+medium.en,a35cc473b91f4de0,2,agent,0,1.26,6.02,"Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?",-0.153,0.015
+medium.en,a35cc473b91f4de0,1,caller,0,3.41,33.66,"Hi, my name is Mary Brown. I need a new checkbook. My address is 137 First Street, Harper Valley,",-0.255,0.145
+medium.en,a35cc473b91f4de0,2,agent,1,15.81,50.14,What is your address? A new checkbook has been sent to your home address. Is there anything else I can help you with?,-0.153,0.015
+medium.en,a35cc473b91f4de0,1,caller,1,35.36,44.14,"Oregon, 1-4-8-6-2.",-0.323,0.297
+medium.en,a35cc473b91f4de0,1,caller,2,56.02,57.88,"No, that's everything. Thank you very much.",-0.323,0.297
+medium.en,a35cc473b91f4de0,2,agent,2,57.15,58.83,Thank you for calling. Have a great day.,-0.153,0.015
+medium.en,a35cc473b91f4de0,1,caller,3,62.04,62.7,Thank you. Bye.,-0.323,0.297
+medium.en,b711d5c6db68429b,2,agent,0,1.9,6.84,"Hello, this is Harper Valley National Bank. My name is David. How can I help you today?",-0.16,0.086
+medium.en,b711d5c6db68429b,1,caller,0,11.15,16.35,"Hi, my name is Linda Davis. I'd like to reset my password.",-0.274,0.002
+medium.en,b711d5c6db68429b,2,agent,1,16.69,18.37,"Okay, what is your phone number?",-0.16,0.086
+medium.en,b711d5c6db68429b,1,caller,1,23.01,42.61,My phone number is 0303890619. No.,-0.274,0.002
+medium.en,b711d5c6db68429b,2,agent,2,33.86,38.24,Your password reset link has been sent to your phone. Is there anything else I can help you with?,-0.16,0.086
+medium.en,b711d5c6db68429b,2,agent,3,42.28,44.12,Thank you for calling and have a great day.,-0.16,0.086
+medium.en,c09408163cb14e39,2,agent,0,2.51,7.15,"Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?",-0.185,0.016
+medium.en,c09408163cb14e39,1,caller,0,10.06,12.12,"Hi, my name is Jennifer Rodriguez.",-0.173,0.021
+medium.en,c09408163cb14e39,1,caller,1,14.71,17.07,I would like to transfer money between my accounts.,-0.173,0.021
+medium.en,c09408163cb14e39,2,agent,1,17.31,19.11,What is the transfer amount?,-0.185,0.016
+medium.en,c09408163cb14e39,1,caller,2,23.22,40.55,"The amount is $159 from my checking account, my savings account.",-0.173,0.021
+medium.en,c09408163cb14e39,2,agent,2,26.48,36.12,What is the source account and what is the destination account?,-0.185,0.016
+medium.en,c09408163cb14e39,2,agent,3,42.55,48.51,$159 has been transferred from your checking account to your savings account. Is there anything else I can help you with?,-0.185,0.016
+medium.en,c09408163cb14e39,2,agent,4,53.33,55.19,Thank you for calling. Have a great day.,-0.185,0.016
+medium.en,c0c8d261058841ac,2,agent,0,1.01,5.71,"Hello, this is Hopper Valley National Bank. My name is John. How can I help you today?",-0.203,0.091
+medium.en,c0c8d261058841ac,1,caller,0,9.36,47.37,"I would like to schedule an appointment. Tuesday 12 p.m. No, that is it. You too.",-0.33,0.01
+medium.en,c0c8d261058841ac,2,agent,1,13.11,15.49,What day would you like for your appointment?,-0.203,0.091
+medium.en,c0c8d261058841ac,2,agent,2,20.44,22.2,What time would you like for your appointment?,-0.203,0.091
+medium.en,c0c8d261058841ac,2,agent,3,30.43,33.49,Your appointment has been scheduled for Tuesday at 12 p.m.,-0.203,0.091
+medium.en,c0c8d261058841ac,2,agent,4,34.21,36.63,Is there anything else I can help you with today?,-0.203,0.091
+medium.en,c0c8d261058841ac,2,agent,5,42.19,43.75,Thank you for calling. Have a great day.,-0.203,0.091
+medium.en,cb7bc09bb8d440dc,2,agent,0,1.97,6.57,"Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?",-0.115,0.018
+medium.en,cb7bc09bb8d440dc,1,caller,0,9.58,14.38,Hi my name is Linda Williams and I would like to schedule an appointment,-0.368,0.005
+medium.en,cb7bc09bb8d440dc,2,agent,1,14.99,24.86,What day would you like for your appointment? What time would you like for your appointment?,-0.115,0.018
+medium.en,cb7bc09bb8d440dc,1,caller,1,20.99,48.03,Saturday 4 30 p.m. No that's it thank you so much. Bye-bye.,-0.368,0.005
+medium.en,cb7bc09bb8d440dc,2,agent,2,33.31,36.49,Your appointment has been scheduled for Saturday at 4.30 p.m.,-0.115,0.018
+medium.en,cb7bc09bb8d440dc,2,agent,3,37.23,44.67,Is there anything else I can help you with? Thank you for calling. Have a great day!,-0.115,0.018
+medium.en,d3baa07088cf4c76,2,agent,0,0.0,5.34,"Hello, this is Upper Valley National Bank. My name is Patricia. How can I help you today?",-0.194,0.227
+medium.en,d3baa07088cf4c76,1,caller,0,16.75,28.16,"Hello, can you hear me?",-0.263,0.222
+medium.en,d3baa07088cf4c76,2,agent,1,18.89,28.75,"Hello, this is Upper Valley National Bank. My name is Patricia. How can I help you today? I can hear you",-0.194,0.227
+medium.en,d3baa07088cf4c76,2,agent,2,30.21,31.85,"Hello, my name is Patricia",-0.194,0.227
+medium.en,d3baa07088cf4c76,1,caller,1,32.1,33.08,"OK, yes.",-0.263,0.222
+medium.en,d3baa07088cf4c76,1,caller,2,35.1,37.98,"Yes, hello, my name is Mary Johnson.",-0.263,0.222
+medium.en,d3baa07088cf4c76,2,agent,3,38.25,40.01,"Okay, how can I help you today?",-0.194,0.227
+medium.en,d3baa07088cf4c76,1,caller,3,40.96,44.52,I would like to pay a bill.,-0.263,0.222
+medium.en,d3baa07088cf4c76,2,agent,4,47.12,48.62,"Okay, what's the company name?",-0.194,0.227
+medium.en,d3baa07088cf4c76,1,caller,4,52.4,66.0,"Fossil gas, F-O-S-S-I-L-G-A-S, 657 1st Street",-0.263,0.222
+medium.en,d3baa07088cf4c76,2,agent,5,57.14,59.68,"Okay, and what's the company address?",-0.194,0.227
+medium.en,d3baa07088cf4c76,1,caller,5,66.86,75.28,"In forest, ranch, two words, forest, like where all the animals live, ranch, and that",-0.416,0.334
+medium.en,d3baa07088cf4c76,1,caller,6,75.28,127.47,"is in Oregon, zip code 26450, 26450, 149, no sir, that's everything, thank you so much.",-0.416,0.334
+medium.en,d3baa07088cf4c76,2,agent,6,88.09,90.65,"Okay, what's that zip code again? Six what?",-0.194,0.227
+medium.en,d3baa07088cf4c76,2,agent,7,101.04,119.0,"Okay, I have just, what's the bill amount? Okay, I have submitted your bill payment to",-0.296,0.163
+medium.en,d3baa07088cf4c76,2,agent,8,119.0,128.31,"force you gas. Is there anything else I can help you with? Okay, thank you for calling.",-0.296,0.163
+medium.en,d3baa07088cf4c76,2,agent,9,128.49,129.29,Have a great day.,-0.296,0.163
+medium.en,d3baa07088cf4c76,1,caller,7,132.37,133.29,"Me too, bye bye.",-0.416,0.334
+medium.en,f92c9662d77a4645,2,agent,0,2.48,7.68,"Hello, this is Harper Valley National Bank. My name is Elizabeth. How can I help you today?",-0.117,0.004
+medium.en,f92c9662d77a4645,1,caller,0,10.86,14.78,"Hi, my name is Michael Brown. I would like to reset my password.",-0.257,0.013
+medium.en,f92c9662d77a4645,2,agent,1,17.22,37.23,What is your phone number? Your password reset link has been sent to your phone.,-0.117,0.004
+medium.en,f92c9662d77a4645,1,caller,1,21.76,30.36,My phone number is 026-134-1710.,-0.257,0.013
+medium.en,f92c9662d77a4645,2,agent,2,38.15,46.99,Is there anything else I can help you with? Thank you for calling. Have a great day.,-0.117,0.004
+medium.en,f92c9662d77a4645,1,caller,2,43.2,50.96,Now that'll be all. Thanks.,-0.257,0.013

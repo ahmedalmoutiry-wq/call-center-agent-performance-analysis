@@ -1,0 +1,10 @@
+scope,wer,ref_words,substitutions,deletions,insertions,n_pairs
+final: overall,0.049,2365,51,33,32,50
+final: role: agent,0.0293,1467,22,15,6,25
+final: role: caller,0.0813,898,29,18,26,25
+first run: overall,0.0617,2365,49,69,28,50
+first run: role: agent,0.032,1467,23,17,7,25
+first run: role: caller,0.1102,898,26,52,21,25
+baseline (dataset ASR): overall,0.0748,2365,104,20,53,50
+baseline (dataset ASR): agent,0.0688,1467,62,9,30,25
+baseline (dataset ASR): caller,0.0846,898,42,11,23,25

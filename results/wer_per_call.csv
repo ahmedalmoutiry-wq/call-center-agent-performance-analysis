@@ -1,0 +1,51 @@
+call_id,speaker_role,wer,ref_words,substitutions,deletions,insertions,n_pairs,task_type,caller_audio_quality
+08f360b3f3b844ef,caller,0.0714,42,1,2,0,1,check balance,5.0
+08f360b3f3b844ef,agent,0.0227,88,1,1,0,1,check balance,5.0
+09fc75fc02ea4b46,caller,0.0,34,0,0,0,1,order checks,5.0
+09fc75fc02ea4b46,agent,0.0,48,0,0,0,1,order checks,5.0
+0dee81761a5c45f9,caller,0.0,26,0,0,0,1,check balance,4.0
+0dee81761a5c45f9,agent,0.0175,57,1,0,0,1,check balance,4.0
+0f87dc392db84250,caller,0.1875,32,4,0,2,1,order checks,4.0
+0f87dc392db84250,agent,0.0741,54,2,2,0,1,order checks,4.0
+37a7a35a1e244820,caller,0.1379,29,3,1,0,1,get branch hours,5.0
+37a7a35a1e244820,agent,0.0,37,0,0,0,1,get branch hours,5.0
+3bb5582020c24ae9,caller,0.0652,46,2,0,1,1,pay bill,5.0
+3bb5582020c24ae9,agent,0.0,57,0,0,0,1,pay bill,5.0
+45c7998bd5eb4101,caller,0.1818,33,2,0,4,1,schedule appointment,5.0
+45c7998bd5eb4101,agent,0.1143,70,5,3,0,1,schedule appointment,5.0
+51cb5e31125c4235,caller,0.0,31,0,0,0,1,get branch hours,5.0
+51cb5e31125c4235,agent,0.08,50,0,4,0,1,get branch hours,5.0
+663201e33f1a4e38,caller,0.1111,45,3,0,2,1,transfer money,5.0
+663201e33f1a4e38,agent,0.0156,64,0,0,1,1,transfer money,5.0
+7394fcc2bcb94c69,caller,0.0,33,0,0,0,1,replace card,4.0
+7394fcc2bcb94c69,agent,0.0164,61,0,0,1,1,replace card,4.0
+796158bf207f4888,caller,0.0455,44,1,0,1,1,reset password,4.0
+796158bf207f4888,agent,0.0,49,0,0,0,1,reset password,4.0
+7f3d383f8aff498d,agent,0.0385,52,2,0,0,1,check balance,5.0
+7f3d383f8aff498d,caller,0.1034,29,0,2,1,1,check balance,5.0
+8b04254fc6b447b1,caller,0.1224,49,2,1,3,1,transfer money,3.0
+8b04254fc6b447b1,agent,0.0137,73,0,1,0,1,transfer money,3.0
+8c86097e491544df,caller,0.04,25,1,0,0,1,check balance,5.0
+8c86097e491544df,agent,0.0328,61,2,0,0,1,check balance,5.0
+8cee43b11a144b7d,caller,0.0784,51,1,0,3,1,pay bill,3.0
+8cee43b11a144b7d,agent,0.0108,93,1,0,0,1,pay bill,3.0
+92f32a1665c04695,caller,0.1795,39,2,4,1,1,replace card,5.0
+92f32a1665c04695,agent,0.0408,49,1,0,1,1,replace card,5.0
+96c25385230d4172,caller,0.0,34,0,0,0,1,replace card,4.0
+96c25385230d4172,agent,0.0,41,0,0,0,1,replace card,4.0
+9e05bd9ca9564089,caller,0.0,16,0,0,0,1,get branch hours,5.0
+9e05bd9ca9564089,agent,0.0,17,0,0,0,1,get branch hours,5.0
+a35cc473b91f4de0,caller,0.0811,37,1,0,2,1,order checks,4.0
+a35cc473b91f4de0,agent,0.0204,49,0,1,0,1,order checks,4.0
+b711d5c6db68429b,caller,0.0769,26,1,0,1,1,reset password,3.0
+b711d5c6db68429b,agent,0.0,51,0,0,0,1,reset password,3.0
+c09408163cb14e39,caller,0.0909,33,1,2,0,1,transfer money,5.0
+c09408163cb14e39,agent,0.0,67,0,0,0,1,transfer money,5.0
+c0c8d261058841ac,caller,0.0588,17,1,0,0,1,schedule appointment,5.0
+c0c8d261058841ac,agent,0.0317,63,1,1,0,1,schedule appointment,5.0
+cb7bc09bb8d440dc,caller,0.0769,26,0,0,2,1,schedule appointment,3.0
+cb7bc09bb8d440dc,agent,0.0,62,0,0,0,1,schedule appointment,3.0
+d3baa07088cf4c76,caller,0.1236,89,2,6,3,1,pay bill,5.0
+d3baa07088cf4c76,agent,0.0849,106,5,2,2,1,pay bill,5.0
+f92c9662d77a4645,caller,0.0312,32,1,0,0,1,reset password,4.0
+f92c9662d77a4645,agent,0.0417,48,1,0,1,1,reset password,4.0

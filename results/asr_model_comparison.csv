@@ -1,0 +1,4 @@
+model,device,wer,seconds,rtf
+small.en,cuda/float16,0.0468,8.1,0.021
+medium.en,cuda/float16,0.0288,7.8,0.02
+large-v3,cuda/float16,0.0432,10.6,0.028

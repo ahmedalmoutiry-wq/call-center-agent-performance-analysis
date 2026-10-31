@@ -1,0 +1,5 @@
+variant,wer,ref_words,substitutions,deletions,insertions,n_pairs,worst_call_wer
+vad threshold 0.5,0.1102,898,26,52,21,25,0.8182
+vad threshold 0.35,0.0824,898,27,23,24,25,0.1818
+vad threshold 0.2,0.0813,898,29,18,26,25,0.0909
+vad off,0.1292,898,31,36,49,25,0.0303
