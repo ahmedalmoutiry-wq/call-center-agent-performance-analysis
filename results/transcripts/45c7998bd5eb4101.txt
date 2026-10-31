@@ -1,0 +1,12 @@
+[   0.0s] Speaker 2 (Agent): Hello, this is Akavali National Bank. My name is Linda. How can I help you today?
+[   9.4s] Speaker 1 (Customer): Hi, my name is Elizabeth Brown. I would like to schedule an appointment
+[  16.9s] Speaker 2 (Agent): What day would you like for your appointment?
+[  22.6s] Speaker 1 (Customer): Tuesday
+[  28.1s] Speaker 2 (Agent): What time would you like for your appointment?
+[  34.2s] Speaker 1 (Customer): 1045 a .m.
+[  37.0s] Speaker 2 (Agent): 10 .45, you said?
+[  41.8s] Speaker 1 (Customer): Yes, 1045 a .m.
+[  60.6s] Speaker 2 (Agent): Your appointments have been scheduled for Tuesday at 10 .45 a .m. Is there anything else I can help you with?
+[  70.5s] Speaker 1 (Customer): No, that's all thank you.
+[  72.7s] Speaker 2 (Agent): Thank you for calling. Have a great day.
+[  78.0s] Speaker 1 (Customer): You too. Bye

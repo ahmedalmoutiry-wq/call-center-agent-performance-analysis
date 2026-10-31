@@ -1,0 +1,8 @@
+[   1.4s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is David. How can I help you today?
+[   9.0s] Speaker 1 (Customer): Hello, my name is Robert Rodriguez. I need to reset. I would like to reset my password.
+[  14.8s] Speaker 2 (Agent): What is your phone number?
+[  20.2s] Speaker 1 (Customer): My phone number is One nine seven Five five two Two four two four.
+[  32.6s] Speaker 2 (Agent): Your password reset link has been sent to your phone. Is there anything else I can help you with?
+[  41.6s] Speaker 1 (Customer): No, that was going to be it for today. Thank you.
+[  43.1s] Speaker 2 (Agent): Thank you for calling. Have a great day.
+[  47.8s] Speaker 1 (Customer): You too. Bye

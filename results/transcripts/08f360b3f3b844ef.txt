@@ -1,0 +1,12 @@
+[   1.8s] Speaker 2 (Agent): Hello, this is Harbor Valley National Bank. My name is Robert. How can I help you today?
+[  10.9s] Speaker 1 (Customer): Hi. My name is Linda Smith. I need to check my account balance.
+[  14.5s] Speaker 2 (Agent): Sure, I'd be happy to do that for you. And what's your name, please? Oh, right, it's Linda Smith. Sorry about that. Linda Smith, right.
+[  23.1s] Speaker 1 (Customer): Linda Smith.
+[  25.3s] Speaker 2 (Agent): Alright, I'm in. And which account would you like to check? Your savings account or your checking account?
+[  25.8s] Speaker 1 (Customer): All is well. I'd like to check my checking account, please.
+[  42.2s] Speaker 2 (Agent): Your checking account balance is $90 exactly.
+[  49.8s] Speaker 1 (Customer): Fantastic. That's all I needed.
+[  50.4s] Speaker 2 (Agent): Great. Is there anything else I could help you with today?
+[  55.8s] Speaker 1 (Customer): Nope. That'll be everything. Thank you very much.
+[  56.6s] Speaker 2 (Agent): Thank you for calling, have a great day.
+[  60.5s] Speaker 1 (Customer): useful  [low confidence]

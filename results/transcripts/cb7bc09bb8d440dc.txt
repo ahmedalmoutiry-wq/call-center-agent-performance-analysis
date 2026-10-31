@@ -1,0 +1,10 @@
+[   2.0s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?
+[   9.6s] Speaker 1 (Customer): Hi my name is Linda Williams and I would like to schedule an appointment
+[  15.0s] Speaker 2 (Agent): What day would you like for your appointment?
+[  21.0s] Speaker 1 (Customer): Saturday  [low confidence]
+[  23.5s] Speaker 2 (Agent): What time would you like for your appointment?
+[  28.1s] Speaker 1 (Customer): 4 30 p .m.
+[  33.3s] Speaker 2 (Agent): Your appointment has been scheduled for Saturday at 4 .30 p .m. Is there anything else I can help you with?
+[  41.8s] Speaker 1 (Customer): No that's it thank you so much.
+[  43.1s] Speaker 2 (Agent): Thank you for calling. Have a great day!
+[  47.4s] Speaker 1 (Customer): Bye -bye.

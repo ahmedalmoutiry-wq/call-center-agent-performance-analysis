@@ -1,0 +1,8 @@
+[   1.3s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?
+[   3.4s] Speaker 1 (Customer): Hi, my name is Mary Brown. I need a new checkbook.
+[  15.8s] Speaker 2 (Agent): What is your address?
+[  21.5s] Speaker 1 (Customer): My address is 137 First Street, Harper Valley, Oregon, 1 -4 -8 -6 -2.
+[  45.2s] Speaker 2 (Agent): A new checkbook has been sent to your home address. Is there anything else I can help you with?
+[  56.0s] Speaker 1 (Customer): No, that's everything. Thank you very much.
+[  57.1s] Speaker 2 (Agent): Thank you for calling. Have a great day.
+[  62.0s] Speaker 1 (Customer): Thank you. Bye.

@@ -1,0 +1,238 @@
+call_id,turn_index,speaker,role,start_s,end_s,text,n_words,mean_word_probability,low_confidence,overlaps_other_speaker
+08f360b3f3b844ef,1,Speaker 2,Agent,1.84,7.26,"Hello, this is Harbor Valley National Bank. My name is Robert. How can I help you today?",17,0.945,False,False
+08f360b3f3b844ef,2,Speaker 1,Customer,10.89,14.59,Hi. My name is Linda Smith. I need to check my account balance.,13,0.96,False,False
+08f360b3f3b844ef,3,Speaker 2,Agent,14.5,24.04,"Sure, I'd be happy to do that for you. And what's your name, please? Oh, right, it's Linda Smith. Sorry about that. Linda Smith, right.",25,0.954,False,True
+08f360b3f3b844ef,4,Speaker 1,Customer,23.1,24.14,Linda Smith.,2,0.946,False,True
+08f360b3f3b844ef,5,Speaker 2,Agent,25.32,30.02,"Alright, I'm in. And which account would you like to check? Your savings account or your checking account?",18,0.934,False,True
+08f360b3f3b844ef,6,Speaker 1,Customer,25.84,35.58,"All is well. I'd like to check my checking account, please.",11,0.989,False,True
+08f360b3f3b844ef,7,Speaker 2,Agent,42.2,45.32,Your checking account balance is $90 exactly.,7,0.925,False,False
+08f360b3f3b844ef,8,Speaker 1,Customer,49.76,51.24,Fantastic. That's all I needed.,5,0.996,False,True
+08f360b3f3b844ef,9,Speaker 2,Agent,50.36,52.14,Great. Is there anything else I could help you with today?,11,0.99,False,True
+08f360b3f3b844ef,10,Speaker 1,Customer,55.8,58.28,Nope. That'll be everything. Thank you very much.,8,0.986,False,True
+08f360b3f3b844ef,11,Speaker 2,Agent,56.62,58.12,"Thank you for calling, have a great day.",8,0.974,False,True
+08f360b3f3b844ef,12,Speaker 1,Customer,60.52,61.48,useful,1,0.385,True,False
+09fc75fc02ea4b46,1,Speaker 2,Agent,1.78,6.04,"Hello, this is Harper Valley National Bank. My name is John. How can I help you today?",17,0.97,False,False
+09fc75fc02ea4b46,2,Speaker 1,Customer,9.74,15.06,"Hi, my name is Michael Jones. I need a new checkbook",11,0.93,False,False
+09fc75fc02ea4b46,3,Speaker 2,Agent,16.39,17.67,What is your address?,4,0.994,False,False
+09fc75fc02ea4b46,4,Speaker 1,Customer,21.21,27.91,my address is seven three four Main Street,8,0.77,False,False
+09fc75fc02ea4b46,5,Speaker 2,Agent,35.18,35.78,Mm -hmm,2,0.816,False,False
+09fc75fc02ea4b46,6,Speaker 1,Customer,38.48,50.24,Harper Valley Oregon Oh one three two five,8,0.677,False,False
+09fc75fc02ea4b46,7,Speaker 2,Agent,55.24,61.04,a New checkbook has been sent to your home address. Is there anything else I can help you with?,19,0.921,False,False
+09fc75fc02ea4b46,8,Speaker 1,Customer,64.42,66.0,"No, that was it",4,0.891,False,True
+09fc75fc02ea4b46,9,Speaker 2,Agent,65.47,67.37,Thank you for calling. Have a great day,8,0.999,False,True
+09fc75fc02ea4b46,10,Speaker 1,Customer,70.07,71.61,You too. Thanks,3,0.73,False,False
+0dee81761a5c45f9,1,Speaker 2,Agent,2.7,7.9,"Hello, this is Harper Valley National Bank. My nickname is Robert. How can I help you today?",17,0.951,False,False
+0dee81761a5c45f9,2,Speaker 1,Customer,11.44,19.1,"Hi, my name is Michael Davis. I need to check my account balance.",13,0.983,False,False
+0dee81761a5c45f9,3,Speaker 2,Agent,25.56,27.32,"I'm sorry, can you repeat that for me?",8,0.994,False,False
+0dee81761a5c45f9,4,Speaker 1,Customer,30.79,32.81,I need to check my account balance,7,0.992,False,False
+0dee81761a5c45f9,5,Speaker 2,Agent,35.5,36.78,Which account would you like to check?,7,0.996,False,False
+0dee81761a5c45f9,6,Speaker 1,Customer,39.94,41.46,My savings account,3,0.706,False,False
+0dee81761a5c45f9,7,Speaker 2,Agent,44.04,52.96,Your savings account balance is $46. Is there anything else I can help you with?,15,0.97,False,False
+0dee81761a5c45f9,8,Speaker 1,Customer,57.2,59.1,"no, that's it",3,0.742,False,False
+0dee81761a5c45f9,9,Speaker 2,Agent,59.23,61.29,Thank you for calling. Have a great day.,8,0.945,False,False
+0f87dc392db84250,1,Speaker 2,Agent,2.18,7.6,Hello. This is Hupa Valley National Bank. My name is Jennifer. How can I help you today?,17,0.935,False,False
+0f87dc392db84250,2,Speaker 1,Customer,9.74,13.08,"Hi, my name is James Brown. I need a new checkbook.",11,0.952,False,False
+0f87dc392db84250,3,Speaker 2,Agent,16.63,20.11,Okay. What is your address?,5,0.759,False,False
+0f87dc392db84250,4,Speaker 1,Customer,24.95,42.34,"545 Main Street, Forest Ranch, California, 58558.",7,0.877,False,False
+0f87dc392db84250,5,Speaker 2,Agent,46.72,53.46,"Okay, ma 'am, a new checkbook has been sent to your address. Is there anything else I can help you with?",21,0.956,False,False
+0f87dc392db84250,6,Speaker 1,Customer,55.4,57.34,"No, that's it. Thank you.",5,0.974,False,False
+0f87dc392db84250,7,Speaker 2,Agent,58.62,61.3,Okay. Thank you for calling. Have a great day.,9,0.991,False,False
+0f87dc392db84250,8,Speaker 1,Customer,63.43,64.43,You too. Goodbye.,3,0.755,False,False
+0f87dc392db84250,9,Speaker 2,Agent,66.21,66.45,Bye.,1,0.997,False,False
+37a7a35a1e244820,1,Speaker 2,Agent,3.12,8.22,"Hello, this is Harper Valley National Bank. My name is Jennifer. How can I help you today?",17,0.959,False,False
+37a7a35a1e244820,2,Speaker 1,Customer,9.14,13.22,"Hi, my name is Linda Williams. What are their local branch hours?",12,0.888,False,False
+37a7a35a1e244820,3,Speaker 2,Agent,19.86,23.62,The branch hours are 9 30 a .m. To 5 p .m.,12,0.862,False,False
+37a7a35a1e244820,4,Speaker 1,Customer,25.32,39.52,Okay. Thank you. Um That's what I need for today. Thank you so much,14,0.851,False,False
+37a7a35a1e244820,5,Speaker 2,Agent,43.12,44.72,Thank you for calling. Have a great day!,8,0.998,False,False
+37a7a35a1e244820,6,Speaker 1,Customer,45.46,46.78,You too. Bye,3,0.839,False,False
+3bb5582020c24ae9,1,Speaker 2,Agent,1.78,6.5,"Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?",17,0.97,False,False
+3bb5582020c24ae9,2,Speaker 1,Customer,7.7,11.36,"Hi, my name is James Garcia. I would like to pay a bill.",13,0.973,False,False
+3bb5582020c24ae9,3,Speaker 2,Agent,13.56,14.72,What is the company name?,5,0.995,False,False
+3bb5582020c24ae9,4,Speaker 1,Customer,16.23,18.45,The company is Smart Electric.,5,0.975,False,False
+3bb5582020c24ae9,5,Speaker 2,Agent,20.21,21.81,What is the company address?,5,0.995,False,False
+3bb5582020c24ae9,6,Speaker 1,Customer,23.56,40.6,"The address is 714 1st Street, Forest Ranch, Oregon, 33418.",10,0.923,False,False
+3bb5582020c24ae9,7,Speaker 2,Agent,42.23,43.53,What is the bill amount?,5,0.998,False,False
+3bb5582020c24ae9,8,Speaker 1,Customer,44.81,46.91,The amount of the bill is $89.,7,0.984,False,False
+3bb5582020c24ae9,9,Speaker 2,Agent,49.75,54.49,We will send your payment to Smart Electric. Is there anything else I can help you with?,17,0.973,False,False
+3bb5582020c24ae9,10,Speaker 1,Customer,55.62,56.48,"No, thank you.",3,0.987,False,False
+3bb5582020c24ae9,11,Speaker 2,Agent,57.47,59.25,Thank you for calling. Have a great day.,8,0.993,False,False
+45c7998bd5eb4101,1,Speaker 2,Agent,0.0,6.26,"Hello, this is Akavali National Bank. My name is Linda. How can I help you today?",16,0.887,False,False
+45c7998bd5eb4101,2,Speaker 1,Customer,9.39,13.11,"Hi, my name is Elizabeth Brown. I would like to schedule an appointment",13,0.972,False,False
+45c7998bd5eb4101,3,Speaker 2,Agent,16.94,18.86,What day would you like for your appointment?,8,0.981,False,False
+45c7998bd5eb4101,4,Speaker 1,Customer,22.58,23.16,Tuesday,1,0.76,False,False
+45c7998bd5eb4101,5,Speaker 2,Agent,28.15,30.03,What time would you like for your appointment?,8,0.989,False,False
+45c7998bd5eb4101,6,Speaker 1,Customer,34.16,35.44,1045 a .m.,3,0.733,False,False
+45c7998bd5eb4101,7,Speaker 2,Agent,36.98,38.26,"10 .45, you said?",4,0.905,False,False
+45c7998bd5eb4101,8,Speaker 1,Customer,41.8,43.8,"Yes, 1045 a .m.",4,0.966,False,False
+45c7998bd5eb4101,9,Speaker 2,Agent,60.57,67.31,Your appointments have been scheduled for Tuesday at 10 .45 a .m. Is there anything else I can help you with?,21,0.943,False,False
+45c7998bd5eb4101,10,Speaker 1,Customer,70.55,72.35,"No, that's all thank you.",5,0.846,False,False
+45c7998bd5eb4101,11,Speaker 2,Agent,72.74,75.18,Thank you for calling. Have a great day.,8,0.997,False,False
+45c7998bd5eb4101,12,Speaker 1,Customer,77.96,79.28,You too. Bye,3,0.958,False,False
+51cb5e31125c4235,1,Speaker 2,Agent,1.62,6.64,"Hello, this is Harper Valley National Bank. My name is John. How can I help you today?",17,0.968,False,False
+51cb5e31125c4235,2,Speaker 1,Customer,9.65,14.23,"Hi, John. My name is Jennifer Davis. I was wondering what your local branch hours are.",16,0.966,False,False
+51cb5e31125c4235,3,Speaker 2,Agent,14.27,17.27,The branch hours are 9 .30 a .m. to 5 p .m.,12,0.896,False,False
+51cb5e31125c4235,4,Speaker 1,Customer,21.0,22.66,Wonderful. Thank you so much.,5,0.997,False,False
+51cb5e31125c4235,5,Speaker 2,Agent,23.58,26.8,Is there anything else I can help you with?,9,0.983,False,False
+51cb5e31125c4235,6,Speaker 1,Customer,30.27,31.39,"Nope, that'll do it.",4,0.922,False,True
+51cb5e31125c4235,7,Speaker 2,Agent,30.36,32.32,Thank you for calling. Have a great day.,8,0.999,False,True
+51cb5e31125c4235,8,Speaker 1,Customer,35.23,36.61,You too. Thank you so much.,6,0.927,False,False
+663201e33f1a4e38,1,Speaker 2,Agent,2.74,9.48,"Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?",17,0.956,False,False
+663201e33f1a4e38,2,Speaker 1,Customer,13.07,17.97,"Hi, my name is Linda Miller. I would like to transfer money between my accounts.",15,0.968,False,True
+663201e33f1a4e38,3,Speaker 2,Agent,17.38,29.58,Okay. What is the transfer amount?,6,0.97,False,True
+663201e33f1a4e38,4,Speaker 1,Customer,33.48,35.04,The amount is $147.,4,0.956,False,False
+663201e33f1a4e38,5,Speaker 2,Agent,42.16,43.72,What is the source account?,5,0.992,False,False
+663201e33f1a4e38,6,Speaker 1,Customer,47.62,51.48,I'd like it sourced from my savings account and sent to my checking.,13,0.969,False,False
+663201e33f1a4e38,7,Speaker 2,Agent,61.3,76.29,"Okay, $147 has been transferred from your savings account to your checking account. Is there anything else I can help you with?",22,0.994,False,True
+663201e33f1a4e38,8,Speaker 1,Customer,74.58,82.27,I don't know. It looks like we should be good.,10,0.861,False,True
+663201e33f1a4e38,9,Speaker 2,Agent,81.52,85.36,All right. Thank you for calling. and have a great day.,11,0.897,False,True
+7394fcc2bcb94c69,1,Speaker 2,Agent,2.0,6.72,"Hello, this is Harper Valley National Bank. My name is David. How can I help you today?",17,0.967,False,False
+7394fcc2bcb94c69,2,Speaker 1,Customer,10.29,15.73,"Hi, my name is James Brown. I lost my credit card. Can you send me a new one?",18,0.973,False,False
+7394fcc2bcb94c69,3,Speaker 2,Agent,15.38,19.58,"Yes One moment, which card would you like to replace?",10,0.895,False,False
+7394fcc2bcb94c69,4,Speaker 1,Customer,23.42,24.38,My credit card.,3,0.97,False,False
+7394fcc2bcb94c69,5,Speaker 2,Agent,25.67,34.7,"But okay, perfect. Your new credit card has been ordered and will be on the way soon Is there anything else I can help you with?",26,0.94,False,False
+7394fcc2bcb94c69,6,Speaker 1,Customer,34.41,35.25,Great. Thank you.,3,0.995,False,False
+7394fcc2bcb94c69,7,Speaker 2,Agent,37.96,39.94,Okay. Thank you for calling. Have a great day,9,0.998,False,True
+7394fcc2bcb94c69,8,Speaker 1,Customer,38.17,43.93,"No, that was all. Bye. Have a good day.",9,0.953,False,True
+796158bf207f4888,1,Speaker 2,Agent,1.39,5.77,"Hello, this is Harper Valley National Bank. My name is David. How can I help you today?",17,0.992,False,False
+796158bf207f4888,2,Speaker 1,Customer,9.04,14.12,"Hello, my name is Robert Rodriguez. I need to reset. I would like to reset my password.",17,0.965,False,False
+796158bf207f4888,3,Speaker 2,Agent,14.82,15.84,What is your phone number?,5,0.997,False,False
+796158bf207f4888,4,Speaker 1,Customer,20.21,30.15,My phone number is One nine seven Five five two Two four two four.,14,0.864,False,False
+796158bf207f4888,5,Speaker 2,Agent,32.63,37.71,Your password reset link has been sent to your phone. Is there anything else I can help you with?,19,0.995,False,False
+796158bf207f4888,6,Speaker 1,Customer,41.61,44.81,"No, that was going to be it for today. Thank you.",11,0.968,False,True
+796158bf207f4888,7,Speaker 2,Agent,43.06,44.7,Thank you for calling. Have a great day.,8,1.0,False,True
+796158bf207f4888,8,Speaker 1,Customer,47.84,49.08,You too. Bye,3,0.821,False,False
+7f3d383f8aff498d,1,Speaker 1,Agent,4.72,11.18,"Hello, this is Harbor Valley National Bank. My name is John. How can I help you today?",17,0.953,False,True
+7f3d383f8aff498d,2,Speaker 2,Customer,10.25,14.09,"Hi, my name is Mary Smith, I need to check my account balance,",13,0.895,False,True
+7f3d383f8aff498d,3,Speaker 1,Agent,22.28,23.66,Which account would you like to check?,7,0.991,False,True
+7f3d383f8aff498d,4,Speaker 2,Customer,23.03,23.87,my checking account.,3,0.813,False,True
+7f3d383f8aff498d,5,Speaker 1,Agent,31.44,36.24,Your checking account balance is $115.,6,0.954,False,False
+7f3d383f8aff498d,6,Speaker 2,Customer,36.56,38.46,"Oh wow, okay,",3,0.679,False,False
+7f3d383f8aff498d,7,Speaker 1,Agent,40.53,42.39,Is there anything else I can help you with?,9,0.979,False,False
+7f3d383f8aff498d,8,Speaker 2,Customer,41.92,44.62,"that is it, thank you very much,",7,0.978,False,False
+7f3d383f8aff498d,9,Speaker 1,Agent,47.28,49.8,All right. Thank you for calling. Have a great day.,10,0.972,False,False
+7f3d383f8aff498d,10,Speaker 2,Customer,48.73,48.93,thank you.,2,0.818,False,False
+8b04254fc6b447b1,1,Speaker 2,Agent,1.01,5.63,"Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?",17,0.932,False,False
+8b04254fc6b447b1,2,Speaker 1,Customer,8.59,13.47,"Hi, my name is Linda Miller. I would like to transfer money between my account.",15,0.944,False,True
+8b04254fc6b447b1,3,Speaker 2,Agent,12.79,14.01,What is the transfer amount?,5,0.982,False,True
+8b04254fc6b447b1,4,Speaker 1,Customer,18.64,20.8,The amount is $133.,4,0.904,False,False
+8b04254fc6b447b1,5,Speaker 2,Agent,21.5,22.64,What is the source account?,5,0.974,False,False
+8b04254fc6b447b1,6,Speaker 1,Customer,26.35,27.69,It's from my savings.,4,0.955,False,False
+8b04254fc6b447b1,7,Speaker 2,Agent,27.84,29.1,What is the destination account?,5,0.982,False,False
+8b04254fc6b447b1,8,Speaker 1,Customer,32.66,35.16,I want to transfer it to my checking account.,9,0.984,False,False
+8b04254fc6b447b1,9,Speaker 2,Agent,34.96,43.0,Is there anything else I can – $133 has been transferred from your savings account to your checking account. Is there anything else I can help you with?,28,0.912,False,False
+8b04254fc6b447b1,10,Speaker 1,Customer,47.12,49.72,That's actually all I need for today. Thank you so much.,11,0.933,False,True
+8b04254fc6b447b1,11,Speaker 2,Agent,48.44,50.16,Thank you for calling. Have a great day.,8,0.984,False,True
+8b04254fc6b447b1,12,Speaker 1,Customer,53.6,54.36,You too. Bye.,3,0.915,False,False
+8c86097e491544df,1,Speaker 2,Agent,1.58,6.68,"Hello, this is Harbor Valley National Bank. My name is Joan. How can I help you today?",17,0.911,False,False
+8c86097e491544df,2,Speaker 1,Customer,9.49,13.61,"Hi, Joan. My name is Michael Smith. I need to check my account balance.",14,0.935,False,True
+8c86097e491544df,3,Speaker 2,Agent,12.71,16.73,"Sure, I can help you with that. Which account would you like to check?",14,0.963,False,True
+8c86097e491544df,4,Speaker 1,Customer,20.13,21.31,My checking account?,3,0.827,False,False
+8c86097e491544df,5,Speaker 2,Agent,21.35,28.59,"Sure, so your checking account balance is $84. Is there anything else I can help you with?",17,0.948,False,False
+8c86097e491544df,6,Speaker 1,Customer,31.62,32.74,"Nope, that was it.",4,0.939,False,True
+8c86097e491544df,7,Speaker 2,Agent,31.82,34.1,Okay. Thank you for calling. Have a great day.,9,0.981,False,True
+8c86097e491544df,8,Speaker 1,Customer,36.95,37.79,You too. Thank you.,4,0.926,False,False
+8c86097e491544df,9,Speaker 2,Agent,37.22,37.7,Bye now.,2,0.926,False,False
+8cee43b11a144b7d,1,Speaker 2,Agent,1.3,6.5,Hello this is Harper Valley National Bank my name is Linda how can I help you today?,17,0.873,False,False
+8cee43b11a144b7d,2,Speaker 1,Customer,10.1,14.24,"Hi, my name is Jennifer Wilson. I would like to pay a bill.",13,0.981,False,False
+8cee43b11a144b7d,3,Speaker 2,Agent,14.29,18.49,Okay what is the company name that you want to pay?,11,0.925,False,False
+8cee43b11a144b7d,4,Speaker 1,Customer,21.7,23.74,The company is Fossil Gas.,5,0.952,False,False
+8cee43b11a144b7d,5,Speaker 2,Agent,26.3,28.78,Okay and what is the company address?,7,0.957,False,False
+8cee43b11a144b7d,6,Speaker 1,Customer,32.42,45.38,"The address is 769 1st Street, Harper Valley, Oregon, 80968.",10,0.895,False,False
+8cee43b11a144b7d,7,Speaker 2,Agent,51.14,59.4,Okay so that was seven six nine First Street Harper Valley Oregon seven zero nine six eight is that correct?,20,0.887,False,False
+8cee43b11a144b7d,8,Speaker 1,Customer,64.7,65.64,80968.,1,0.678,False,False
+8cee43b11a144b7d,9,Speaker 2,Agent,67.69,74.67,Okay okay and what is the book bill amount.,9,0.852,False,False
+8cee43b11a144b7d,10,Speaker 1,Customer,78.34,79.7,$65. dollars.,2,0.647,False,False
+8cee43b11a144b7d,11,Speaker 2,Agent,82.42,87.38,"Okay, we will send your payment to Fossil Gas. Is there anything else I can help you with?",18,0.953,False,False
+8cee43b11a144b7d,12,Speaker 1,Customer,91.02,92.44,"Nope, that's gonna be it. Thank you.",7,0.881,False,True
+8cee43b11a144b7d,13,Speaker 2,Agent,91.38,96.94,"Okay, thank you for calling and have a great day. Bye.",11,0.972,False,True
+8cee43b11a144b7d,14,Speaker 1,Customer,97.25,97.75,You too.,2,0.897,False,False
+92f32a1665c04695,1,Speaker 2,Agent,1.95,6.79,Hello. This is Hopper Valley National Bank. My name is Mary. How can I help you today?,17,0.941,False,False
+92f32a1665c04695,2,Speaker 1,Customer,9.58,14.7,"Hi, my name is Linda Brown. I lost my debit card. Can you send me a new one?",18,0.915,False,True
+92f32a1665c04695,3,Speaker 2,Agent,14.07,15.81,Okay. You'd like to replace your debit card?,8,0.928,False,True
+92f32a1665c04695,4,Speaker 1,Customer,19.3,21.12,"Yes, my debit card.",4,0.992,False,True
+92f32a1665c04695,5,Speaker 2,Agent,19.94,23.54,I've ordered your replacement debit card. Is there anything else I can help you with?,15,0.981,False,True
+92f32a1665c04695,6,Speaker 1,Customer,26.68,28.94,"Oh no, it's actually what I need for today. Thank you.",11,0.859,False,True
+92f32a1665c04695,7,Speaker 2,Agent,27.91,30.51,You're welcome. Thank you for calling. Have a great day.,10,0.995,False,True
+92f32a1665c04695,8,Speaker 1,Customer,33.52,34.4,You too. Bye.,3,0.963,False,False
+96c25385230d4172,1,Speaker 2,Agent,2.16,5.44,"Hello, this is Harper Valley National Bank. My name is Linda.",11,0.964,False,False
+96c25385230d4172,2,Speaker 1,Customer,7.6,14.26,"Hi, my name is Mary Jones. I lost my debit card. Can you send me a new one?",18,0.958,False,False
+96c25385230d4172,3,Speaker 2,Agent,17.92,19.34,Which card would you like to replace?,7,0.997,False,False
+96c25385230d4172,4,Speaker 1,Customer,21.58,22.92,My debit card.,3,0.979,False,False
+96c25385230d4172,5,Speaker 2,Agent,30.45,35.47,I've ordered your replacement debit card. Is there anything else I can help you with?,15,0.984,False,False
+96c25385230d4172,6,Speaker 1,Customer,36.92,41.0,"No, that's all I needed help with. Thank you. Bye bye.",11,0.923,False,True
+96c25385230d4172,7,Speaker 2,Agent,37.52,41.26,Thank you for calling. Have a great day.,8,0.998,False,True
+96c25385230d4172,8,Speaker 1,Customer,42.3,44.14,Thanks. Bye.,2,0.97,False,False
+9e05bd9ca9564089,1,Speaker 2,Agent,1.39,5.63,"Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?",17,0.98,False,False
+9e05bd9ca9564089,2,Speaker 1,Customer,10.0,17.3,"Yes, hi, my name is Mary Wilson and I would what are the local branch hours?",16,0.824,False,False
+a35cc473b91f4de0,1,Speaker 2,Agent,1.26,6.02,"Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?",17,0.946,False,True
+a35cc473b91f4de0,2,Speaker 1,Customer,3.41,14.8,"Hi, my name is Mary Brown. I need a new checkbook.",11,0.934,False,True
+a35cc473b91f4de0,3,Speaker 2,Agent,15.81,16.93,What is your address?,4,0.995,False,False
+a35cc473b91f4de0,4,Speaker 1,Customer,21.51,44.14,"My address is 137 First Street, Harper Valley, Oregon, 1 -4 -8 -6 -2.",14,0.81,False,False
+a35cc473b91f4de0,5,Speaker 2,Agent,45.22,50.14,A new checkbook has been sent to your home address. Is there anything else I can help you with?,19,0.992,False,False
+a35cc473b91f4de0,6,Speaker 1,Customer,56.02,57.88,"No, that's everything. Thank you very much.",7,0.977,False,True
+a35cc473b91f4de0,7,Speaker 2,Agent,57.15,58.83,Thank you for calling. Have a great day.,8,0.998,False,True
+a35cc473b91f4de0,8,Speaker 1,Customer,62.04,62.7,Thank you. Bye.,3,0.885,False,False
+b711d5c6db68429b,1,Speaker 2,Agent,1.9,6.84,"Hello, this is Harper Valley National Bank. My name is David. How can I help you today?",17,0.976,False,False
+b711d5c6db68429b,2,Speaker 1,Customer,11.15,16.35,"Hi, my name is Linda Davis. I'd like to reset my password.",12,0.964,False,False
+b711d5c6db68429b,3,Speaker 2,Agent,16.69,18.37,"Okay, what is your phone number?",6,0.885,False,False
+b711d5c6db68429b,4,Speaker 1,Customer,23.01,31.17,My phone number is 0303890619.,5,0.942,False,False
+b711d5c6db68429b,5,Speaker 2,Agent,33.86,38.24,Your password reset link has been sent to your phone. Is there anything else I can help you with?,19,0.974,False,False
+b711d5c6db68429b,6,Speaker 1,Customer,42.19,42.61,No.,1,0.622,False,False
+b711d5c6db68429b,7,Speaker 2,Agent,42.28,44.12,Thank you for calling and have a great day.,9,0.973,False,False
+c09408163cb14e39,1,Speaker 2,Agent,2.51,7.15,"Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?",17,0.967,False,False
+c09408163cb14e39,2,Speaker 1,Customer,10.06,17.07,"Hi, my name is Jennifer Rodriguez. I would like to transfer money between my accounts.",15,0.971,False,False
+c09408163cb14e39,3,Speaker 2,Agent,17.31,19.11,What is the transfer amount?,5,0.987,False,False
+c09408163cb14e39,4,Speaker 1,Customer,23.22,26.66,The amount is $159 from,5,0.902,False,False
+c09408163cb14e39,5,Speaker 2,Agent,26.48,28.34,What is the source account,5,0.996,False,False
+c09408163cb14e39,6,Speaker 1,Customer,32.42,33.4,"my checking account,",3,0.992,False,False
+c09408163cb14e39,7,Speaker 2,Agent,33.08,36.12,and what is the destination account?,6,0.883,False,False
+c09408163cb14e39,8,Speaker 1,Customer,39.73,40.55,my savings account.,3,0.986,False,False
+c09408163cb14e39,9,Speaker 2,Agent,42.55,55.19,$159 has been transferred from your checking account to your savings account. Is there anything else I can help you with? Thank you for calling. Have a great day.,29,0.971,False,False
+c0c8d261058841ac,1,Speaker 2,Agent,1.01,5.71,"Hello, this is Hopper Valley National Bank. My name is John. How can I help you today?",17,0.952,False,False
+c0c8d261058841ac,2,Speaker 1,Customer,9.36,11.24,I would like to schedule an appointment.,7,0.96,False,False
+c0c8d261058841ac,3,Speaker 2,Agent,13.11,15.49,What day would you like for your appointment?,8,0.989,False,False
+c0c8d261058841ac,4,Speaker 1,Customer,19.78,21.38,Tuesday 12,2,0.717,False,True
+c0c8d261058841ac,5,Speaker 2,Agent,20.44,22.2,What time would you like for your appointment?,8,0.988,False,True
+c0c8d261058841ac,6,Speaker 1,Customer,27.52,28.0,p .m.,2,0.779,False,False
+c0c8d261058841ac,7,Speaker 2,Agent,30.43,36.63,Your appointment has been scheduled for Tuesday at 12 p .m. Is there anything else I can help you with today?,21,0.986,False,False
+c0c8d261058841ac,8,Speaker 1,Customer,40.7,42.36,"No, that is it.",4,0.946,False,False
+c0c8d261058841ac,9,Speaker 2,Agent,42.19,43.75,Thank you for calling. Have a great day.,8,0.999,False,False
+c0c8d261058841ac,10,Speaker 1,Customer,46.89,47.37,You too.,2,0.934,False,False
+cb7bc09bb8d440dc,1,Speaker 2,Agent,1.97,6.57,"Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?",17,0.985,False,False
+cb7bc09bb8d440dc,2,Speaker 1,Customer,9.58,14.38,Hi my name is Linda Williams and I would like to schedule an appointment,14,0.894,False,False
+cb7bc09bb8d440dc,3,Speaker 2,Agent,14.99,16.43,What day would you like for your appointment?,8,0.997,False,False
+cb7bc09bb8d440dc,4,Speaker 1,Customer,20.99,21.71,Saturday,1,0.293,True,False
+cb7bc09bb8d440dc,5,Speaker 2,Agent,23.46,24.86,What time would you like for your appointment?,8,0.996,False,False
+cb7bc09bb8d440dc,6,Speaker 1,Customer,28.11,30.05,4 30 p .m.,4,0.658,False,False
+cb7bc09bb8d440dc,7,Speaker 2,Agent,33.31,38.91,Your appointment has been scheduled for Saturday at 4 .30 p .m. Is there anything else I can help you with?,21,0.956,False,False
+cb7bc09bb8d440dc,8,Speaker 1,Customer,41.79,43.85,No that's it thank you so much.,7,0.841,False,True
+cb7bc09bb8d440dc,9,Speaker 2,Agent,43.07,44.67,Thank you for calling. Have a great day!,8,0.999,False,True
+cb7bc09bb8d440dc,10,Speaker 1,Customer,47.43,48.03,Bye -bye.,2,0.755,False,False
+d3baa07088cf4c76,1,Speaker 2,Agent,0.0,5.34,"Hello, this is Upper Valley National Bank. My name is Patricia. How can I help you today?",17,0.906,False,False
+d3baa07088cf4c76,2,Speaker 1,Customer,16.75,17.33,"Hello,",1,0.484,True,False
+d3baa07088cf4c76,3,Speaker 2,Agent,18.89,23.61,"Hello, this is Upper Valley National Bank. My name is Patricia. How can I help you today?",17,0.993,False,True
+d3baa07088cf4c76,4,Speaker 1,Customer,21.35,28.16,can you hear me?,4,0.866,False,True
+d3baa07088cf4c76,5,Speaker 2,Agent,27.91,31.85,"I can hear you Hello, my name is Patricia",9,0.884,False,False
+d3baa07088cf4c76,6,Speaker 1,Customer,32.1,37.98,"OK, yes. Yes, hello, my name is Mary Johnson.",9,0.826,False,False
+d3baa07088cf4c76,7,Speaker 2,Agent,38.25,40.01,"Okay, how can I help you today?",7,0.904,False,False
+d3baa07088cf4c76,8,Speaker 1,Customer,40.96,44.52,I would like to pay a bill.,7,0.98,False,False
+d3baa07088cf4c76,9,Speaker 2,Agent,47.12,48.62,"Okay, what's the company name?",5,0.986,False,False
+d3baa07088cf4c76,10,Speaker 1,Customer,52.4,57.68,"Fossil gas, F -O -S -S -I -L -G -A -S,",11,0.903,False,True
+d3baa07088cf4c76,11,Speaker 2,Agent,57.14,59.68,"Okay, and what's the company address?",6,0.976,False,True
+d3baa07088cf4c76,12,Speaker 1,Customer,63.32,82.38,"657 1st Street In forest, ranch, two words, forest, like where all the animals live, ranch, and that is in Oregon, zip code 26450,",24,0.883,False,False
+d3baa07088cf4c76,13,Speaker 2,Agent,88.09,90.65,"Okay, what's that zip code again? Six what?",8,0.835,False,False
+d3baa07088cf4c76,14,Speaker 1,Customer,93.8,96.74,"26450,",1,0.878,False,False
+d3baa07088cf4c76,15,Speaker 2,Agent,101.04,105.34,"Okay, I have just, what's the bill amount?",8,0.823,False,False
+d3baa07088cf4c76,16,Speaker 1,Customer,108.31,109.57,"149,",1,0.988,False,False
+d3baa07088cf4c76,17,Speaker 2,Agent,115.46,121.78,"Okay, I have submitted your bill payment to force you gas. Is there anything else I can help you with?",20,0.848,False,False
+d3baa07088cf4c76,18,Speaker 1,Customer,125.05,127.47,"no sir, that's everything, thank you so much.",8,0.957,False,False
+d3baa07088cf4c76,19,Speaker 2,Agent,127.09,129.29,"Okay, thank you for calling. Have a great day.",9,0.995,False,False
+d3baa07088cf4c76,20,Speaker 1,Customer,132.37,133.29,"Me too, bye bye.",4,0.687,False,False
+f92c9662d77a4645,1,Speaker 2,Agent,2.48,7.68,"Hello, this is Harper Valley National Bank. My name is Elizabeth. How can I help you today?",17,0.945,False,False
+f92c9662d77a4645,2,Speaker 1,Customer,10.86,14.78,"Hi, my name is Michael Brown. I would like to reset my password.",13,0.967,False,False
+f92c9662d77a4645,3,Speaker 2,Agent,17.22,18.32,What is your phone number?,5,0.998,False,False
+f92c9662d77a4645,4,Speaker 1,Customer,21.76,30.36,My phone number is 026 -134 -1710.,7,0.91,False,False
+f92c9662d77a4645,5,Speaker 2,Agent,34.39,40.19,Your password reset link has been sent to your phone. Is there anything else I can help you with?,19,0.996,False,False
+f92c9662d77a4645,6,Speaker 1,Customer,43.2,44.68,Now that'll be all.,4,0.92,False,False
+f92c9662d77a4645,7,Speaker 2,Agent,44.87,46.99,Thank you for calling. Have a great day.,8,0.999,False,False
+f92c9662d77a4645,8,Speaker 1,Customer,50.74,50.96,Thanks.,1,0.983,False,False

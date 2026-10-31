@@ -1,0 +1,20 @@
+[   0.0s] Speaker 2 (Agent): Hello, this is Upper Valley National Bank. My name is Patricia. How can I help you today?
+[  16.8s] Speaker 1 (Customer): Hello,  [low confidence]
+[  18.9s] Speaker 2 (Agent): Hello, this is Upper Valley National Bank. My name is Patricia. How can I help you today?
+[  21.4s] Speaker 1 (Customer): can you hear me?
+[  27.9s] Speaker 2 (Agent): I can hear you Hello, my name is Patricia
+[  32.1s] Speaker 1 (Customer): OK, yes. Yes, hello, my name is Mary Johnson.
+[  38.2s] Speaker 2 (Agent): Okay, how can I help you today?
+[  41.0s] Speaker 1 (Customer): I would like to pay a bill.
+[  47.1s] Speaker 2 (Agent): Okay, what's the company name?
+[  52.4s] Speaker 1 (Customer): Fossil gas, F -O -S -S -I -L -G -A -S,
+[  57.1s] Speaker 2 (Agent): Okay, and what's the company address?
+[  63.3s] Speaker 1 (Customer): 657 1st Street In forest, ranch, two words, forest, like where all the animals live, ranch, and that is in Oregon, zip code 26450,
+[  88.1s] Speaker 2 (Agent): Okay, what's that zip code again? Six what?
+[  93.8s] Speaker 1 (Customer): 26450,
+[ 101.0s] Speaker 2 (Agent): Okay, I have just, what's the bill amount?
+[ 108.3s] Speaker 1 (Customer): 149,
+[ 115.5s] Speaker 2 (Agent): Okay, I have submitted your bill payment to force you gas. Is there anything else I can help you with?
+[ 125.0s] Speaker 1 (Customer): no sir, that's everything, thank you so much.
+[ 127.1s] Speaker 2 (Agent): Okay, thank you for calling. Have a great day.
+[ 132.4s] Speaker 1 (Customer): Me too, bye bye.

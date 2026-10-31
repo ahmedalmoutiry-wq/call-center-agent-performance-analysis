@@ -1,0 +1,8 @@
+[   1.6s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is John. How can I help you today?
+[   9.7s] Speaker 1 (Customer): Hi, John. My name is Jennifer Davis. I was wondering what your local branch hours are.
+[  14.3s] Speaker 2 (Agent): The branch hours are 9 .30 a .m. to 5 p .m.
+[  21.0s] Speaker 1 (Customer): Wonderful. Thank you so much.
+[  23.6s] Speaker 2 (Agent): Is there anything else I can help you with?
+[  30.3s] Speaker 1 (Customer): Nope, that'll do it.
+[  30.4s] Speaker 2 (Agent): Thank you for calling. Have a great day.
+[  35.2s] Speaker 1 (Customer): You too. Thank you so much.

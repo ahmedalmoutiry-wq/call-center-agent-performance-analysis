@@ -1,0 +1,9 @@
+[   2.7s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My nickname is Robert. How can I help you today?
+[  11.4s] Speaker 1 (Customer): Hi, my name is Michael Davis. I need to check my account balance.
+[  25.6s] Speaker 2 (Agent): I'm sorry, can you repeat that for me?
+[  30.8s] Speaker 1 (Customer): I need to check my account balance
+[  35.5s] Speaker 2 (Agent): Which account would you like to check?
+[  39.9s] Speaker 1 (Customer): My savings account
+[  44.0s] Speaker 2 (Agent): Your savings account balance is $46. Is there anything else I can help you with?
+[  57.2s] Speaker 1 (Customer): no, that's it
+[  59.2s] Speaker 2 (Agent): Thank you for calling. Have a great day.

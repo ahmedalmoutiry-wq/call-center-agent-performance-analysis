@@ -1,0 +1,2 @@
+[   1.4s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?
+[  10.0s] Speaker 1 (Customer): Yes, hi, my name is Mary Wilson and I would what are the local branch hours?

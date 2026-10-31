@@ -1,0 +1,10 @@
+[   1.0s] Speaker 2 (Agent): Hello, this is Hopper Valley National Bank. My name is John. How can I help you today?
+[   9.4s] Speaker 1 (Customer): I would like to schedule an appointment.
+[  13.1s] Speaker 2 (Agent): What day would you like for your appointment?
+[  19.8s] Speaker 1 (Customer): Tuesday 12
+[  20.4s] Speaker 2 (Agent): What time would you like for your appointment?
+[  27.5s] Speaker 1 (Customer): p .m.
+[  30.4s] Speaker 2 (Agent): Your appointment has been scheduled for Tuesday at 12 p .m. Is there anything else I can help you with today?
+[  40.7s] Speaker 1 (Customer): No, that is it.
+[  42.2s] Speaker 2 (Agent): Thank you for calling. Have a great day.
+[  46.9s] Speaker 1 (Customer): You too.

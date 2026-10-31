@@ -1,0 +1,14 @@
+[   1.3s] Speaker 2 (Agent): Hello this is Harper Valley National Bank my name is Linda how can I help you today?
+[  10.1s] Speaker 1 (Customer): Hi, my name is Jennifer Wilson. I would like to pay a bill.
+[  14.3s] Speaker 2 (Agent): Okay what is the company name that you want to pay?
+[  21.7s] Speaker 1 (Customer): The company is Fossil Gas.
+[  26.3s] Speaker 2 (Agent): Okay and what is the company address?
+[  32.4s] Speaker 1 (Customer): The address is 769 1st Street, Harper Valley, Oregon, 80968.
+[  51.1s] Speaker 2 (Agent): Okay so that was seven six nine First Street Harper Valley Oregon seven zero nine six eight is that correct?
+[  64.7s] Speaker 1 (Customer): 80968.
+[  67.7s] Speaker 2 (Agent): Okay okay and what is the book bill amount.
+[  78.3s] Speaker 1 (Customer): $65. dollars.
+[  82.4s] Speaker 2 (Agent): Okay, we will send your payment to Fossil Gas. Is there anything else I can help you with?
+[  91.0s] Speaker 1 (Customer): Nope, that's gonna be it. Thank you.
+[  91.4s] Speaker 2 (Agent): Okay, thank you for calling and have a great day. Bye.
+[  97.2s] Speaker 1 (Customer): You too.

@@ -1,0 +1,9 @@
+[   2.2s] Speaker 2 (Agent): Hello. This is Hupa Valley National Bank. My name is Jennifer. How can I help you today?
+[   9.7s] Speaker 1 (Customer): Hi, my name is James Brown. I need a new checkbook.
+[  16.6s] Speaker 2 (Agent): Okay. What is your address?
+[  24.9s] Speaker 1 (Customer): 545 Main Street, Forest Ranch, California, 58558.
+[  46.7s] Speaker 2 (Agent): Okay, ma 'am, a new checkbook has been sent to your address. Is there anything else I can help you with?
+[  55.4s] Speaker 1 (Customer): No, that's it. Thank you.
+[  58.6s] Speaker 2 (Agent): Okay. Thank you for calling. Have a great day.
+[  63.4s] Speaker 1 (Customer): You too. Goodbye.
+[  66.2s] Speaker 2 (Agent): Bye.

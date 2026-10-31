@@ -1,0 +1,8 @@
+[   2.0s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is David. How can I help you today?
+[  10.3s] Speaker 1 (Customer): Hi, my name is James Brown. I lost my credit card. Can you send me a new one?
+[  15.4s] Speaker 2 (Agent): Yes One moment, which card would you like to replace?
+[  23.4s] Speaker 1 (Customer): My credit card.
+[  25.7s] Speaker 2 (Agent): But okay, perfect. Your new credit card has been ordered and will be on the way soon Is there anything else I can help you with?
+[  34.4s] Speaker 1 (Customer): Great. Thank you.
+[  38.0s] Speaker 2 (Agent): Okay. Thank you for calling. Have a great day
+[  38.2s] Speaker 1 (Customer): No, that was all. Bye. Have a good day.

@@ -1,0 +1,11 @@
+[   1.8s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?
+[   7.7s] Speaker 1 (Customer): Hi, my name is James Garcia. I would like to pay a bill.
+[  13.6s] Speaker 2 (Agent): What is the company name?
+[  16.2s] Speaker 1 (Customer): The company is Smart Electric.
+[  20.2s] Speaker 2 (Agent): What is the company address?
+[  23.6s] Speaker 1 (Customer): The address is 714 1st Street, Forest Ranch, Oregon, 33418.
+[  42.2s] Speaker 2 (Agent): What is the bill amount?
+[  44.8s] Speaker 1 (Customer): The amount of the bill is $89.
+[  49.8s] Speaker 2 (Agent): We will send your payment to Smart Electric. Is there anything else I can help you with?
+[  55.6s] Speaker 1 (Customer): No, thank you.
+[  57.5s] Speaker 2 (Agent): Thank you for calling. Have a great day.

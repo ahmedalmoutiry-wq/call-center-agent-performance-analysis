@@ -1,0 +1,12 @@
+[   1.0s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?
+[   8.6s] Speaker 1 (Customer): Hi, my name is Linda Miller. I would like to transfer money between my account.
+[  12.8s] Speaker 2 (Agent): What is the transfer amount?
+[  18.6s] Speaker 1 (Customer): The amount is $133.
+[  21.5s] Speaker 2 (Agent): What is the source account?
+[  26.4s] Speaker 1 (Customer): It's from my savings.
+[  27.8s] Speaker 2 (Agent): What is the destination account?
+[  32.7s] Speaker 1 (Customer): I want to transfer it to my checking account.
+[  35.0s] Speaker 2 (Agent): Is there anything else I can – $133 has been transferred from your savings account to your checking account. Is there anything else I can help you with?
+[  47.1s] Speaker 1 (Customer): That's actually all I need for today. Thank you so much.
+[  48.4s] Speaker 2 (Agent): Thank you for calling. Have a great day.
+[  53.6s] Speaker 1 (Customer): You too. Bye.

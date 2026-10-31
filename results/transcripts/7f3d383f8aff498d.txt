@@ -1,0 +1,10 @@
+[   4.7s] Speaker 1 (Agent): Hello, this is Harbor Valley National Bank. My name is John. How can I help you today?
+[  10.2s] Speaker 2 (Customer): Hi, my name is Mary Smith, I need to check my account balance,
+[  22.3s] Speaker 1 (Agent): Which account would you like to check?
+[  23.0s] Speaker 2 (Customer): my checking account.
+[  31.4s] Speaker 1 (Agent): Your checking account balance is $115.
+[  36.6s] Speaker 2 (Customer): Oh wow, okay,
+[  40.5s] Speaker 1 (Agent): Is there anything else I can help you with?
+[  41.9s] Speaker 2 (Customer): that is it, thank you very much,
+[  47.3s] Speaker 1 (Agent): All right. Thank you for calling. Have a great day.
+[  48.7s] Speaker 2 (Customer): thank you.

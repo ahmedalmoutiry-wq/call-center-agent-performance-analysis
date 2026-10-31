@@ -1,0 +1,8 @@
+[   2.2s] Speaker 2 (Agent): Hello, this is Harper Valley National Bank. My name is Linda.
+[   7.6s] Speaker 1 (Customer): Hi, my name is Mary Jones. I lost my debit card. Can you send me a new one?
+[  17.9s] Speaker 2 (Agent): Which card would you like to replace?
+[  21.6s] Speaker 1 (Customer): My debit card.
+[  30.4s] Speaker 2 (Agent): I've ordered your replacement debit card. Is there anything else I can help you with?
+[  36.9s] Speaker 1 (Customer): No, that's all I needed help with. Thank you. Bye bye.
+[  37.5s] Speaker 2 (Agent): Thank you for calling. Have a great day.
+[  42.3s] Speaker 1 (Customer): Thanks. Bye.

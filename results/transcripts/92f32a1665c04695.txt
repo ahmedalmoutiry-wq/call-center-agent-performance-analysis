@@ -1,0 +1,8 @@
+[   1.9s] Speaker 2 (Agent): Hello. This is Hopper Valley National Bank. My name is Mary. How can I help you today?
+[   9.6s] Speaker 1 (Customer): Hi, my name is Linda Brown. I lost my debit card. Can you send me a new one?
+[  14.1s] Speaker 2 (Agent): Okay. You'd like to replace your debit card?
+[  19.3s] Speaker 1 (Customer): Yes, my debit card.
+[  19.9s] Speaker 2 (Agent): I've ordered your replacement debit card. Is there anything else I can help you with?
+[  26.7s] Speaker 1 (Customer): Oh no, it's actually what I need for today. Thank you.
+[  27.9s] Speaker 2 (Agent): You're welcome. Thank you for calling. Have a great day.
+[  33.5s] Speaker 1 (Customer): You too. Bye.
