@@ -13,6 +13,7 @@ ASR_SETTINGS = {
     "beam_size": 5,                        # keep the 5 best partial transcripts while decoding
     "vad_filter": True,                    # skip silence -> fewer hallucinated words
     "condition_on_previous_text": False,   # avoid repeating earlier mistakes in long silences
+    "word_timestamps": True,               # start/end time for every word (segments can span pauses)
 }
 
 
@@ -67,25 +68,43 @@ def load_whisper(model_size: str):
         return model, "cpu/int8"
 
 
-def transcribe_file(model, audio_file: Path) -> tuple[list[dict], float]:
-    """Transcribe one WAV file. Return (segments, seconds_taken).
+def transcribe_file(model, audio_file: Path) -> tuple[list[dict], list[dict], float]:
+    """Transcribe one WAV file. Return (segments, words, seconds_taken).
 
-    Each segment is a dict with start/end time (seconds), text, and two
-    confidence signals from Whisper:
-      avg_logprob    - average log-probability of the words (closer to 0 = more confident)
-      no_speech_prob - probability that the segment is actually silence/noise
+    segments - Whisper's text chunks. One chunk can span several sentences and
+               the pauses between them, so its start/end times are coarse.
+    words    - every word with its own start/end time and probability. Used to
+               split the text into speaker turns (notebook 03) and to check
+               whether a word was spoken while this speaker was silent.
+
+    Confidence signals from Whisper:
+      avg_logprob    - average log-probability of a segment (closer to 0 = more confident)
+      no_speech_prob - probability that a segment is actually silence/noise
+      probability    - confidence for one word (0 to 1)
     """
     if not Path(audio_file).exists():
         raise FileNotFoundError(f"{audio_file} not found. Download the subset audio first.")
 
     started = time.perf_counter()
     segments, _info = model.transcribe(str(audio_file), **ASR_SETTINGS)
+
+    segment_rows, word_rows = [], []
     # `segments` is a generator: decoding actually happens while we loop over it
-    rows = [{
-        "start_s": round(seg.start, 2),
-        "end_s": round(seg.end, 2),
-        "asr_text": seg.text.strip(),
-        "avg_logprob": round(seg.avg_logprob, 3),
-        "no_speech_prob": round(seg.no_speech_prob, 3),
-    } for seg in segments]
-    return rows, time.perf_counter() - started
+    for seg_id, seg in enumerate(segments):
+        segment_rows.append({
+            "segment_id": seg_id,
+            "start_s": round(seg.start, 2),
+            "end_s": round(seg.end, 2),
+            "asr_text": seg.text.strip(),
+            "avg_logprob": round(seg.avg_logprob, 3),
+            "no_speech_prob": round(seg.no_speech_prob, 3),
+        })
+        for word in seg.words or []:
+            word_rows.append({
+                "segment_id": seg_id,
+                "word": word.word.strip(),
+                "start_s": round(word.start, 2),
+                "end_s": round(word.end, 2),
+                "probability": round(word.probability, 3),
+            })
+    return segment_rows, word_rows, time.perf_counter() - started
