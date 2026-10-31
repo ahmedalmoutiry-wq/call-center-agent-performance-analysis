@@ -1,0 +1,26 @@
+# ---- Python ----
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ---- Environments and secrets ----
+.venv/
+venv/
+.env
+*.key
+
+# ---- macOS and editor files ----
+.DS_Store
+.vscode/
+
+# ---- Data: raw audio is downloaded by script, never committed ----
+data/*
+!data/README.md
+!data/.gitkeep
+*.wav
+*.mp3
+*.flac
+
+# ---- Downloaded model files ----
+models/
+.cache/
