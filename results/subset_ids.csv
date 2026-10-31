@@ -1,0 +1,26 @@
+call_id,task_type,duration_s,n_utterances,caller_audio_quality,agent_on_channel_1,selection_reason
+08f360b3f3b844ef,check balance,66.61,17,5.0,False,stratified random
+0dee81761a5c45f9,check balance,71.526,12,4.0,False,stratified random
+7f3d383f8aff498d,check balance,54.332,16,5.0,True,edge case: agent on channel 1
+8c86097e491544df,check balance,41.156,13,5.0,False,stratified random
+37a7a35a1e244820,get branch hours,48.063,10,5.0,False,stratified random
+51cb5e31125c4235,get branch hours,40.03,10,5.0,False,stratified random
+9e05bd9ca9564089,get branch hours,24.754,3,5.0,False,stratified random
+09fc75fc02ea4b46,order checks,75.769,16,5.0,False,stratified random
+0f87dc392db84250,order checks,66.701,16,4.0,False,stratified random
+a35cc473b91f4de0,order checks,66.869,22,4.0,False,stratified random
+3bb5582020c24ae9,pay bill,63.829,24,5.0,False,stratified random
+8cee43b11a144b7d,pay bill,100.851,33,3.0,False,stratified random
+d3baa07088cf4c76,pay bill,134.14,51,5.0,False,stratified random
+7394fcc2bcb94c69,replace card,47.025,12,4.0,False,stratified random
+92f32a1665c04695,replace card,35.697,9,5.0,False,stratified random
+96c25385230d4172,replace card,45.146,19,4.0,False,stratified random
+796158bf207f4888,reset password,51.5,15,4.0,False,stratified random
+b711d5c6db68429b,reset password,49.404,11,3.0,False,stratified random
+f92c9662d77a4645,reset password,52.918,13,4.0,False,stratified random
+45c7998bd5eb4101,schedule appointment,80.846,34,5.0,False,stratified random
+c0c8d261058841ac,schedule appointment,52.08,14,5.0,False,stratified random
+cb7bc09bb8d440dc,schedule appointment,49.535,13,3.0,False,stratified random
+663201e33f1a4e38,transfer money,90.637,22,5.0,False,stratified random
+8b04254fc6b447b1,transfer money,55.402,19,3.0,False,stratified random
+c09408163cb14e39,transfer money,61.016,14,5.0,False,stratified random

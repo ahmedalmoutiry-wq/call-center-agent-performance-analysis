@@ -1,0 +1,9 @@
+check,count
+Calls listed in call_ids.txt,1446
+Calls missing a metadata file,0
+Calls missing a transcript file,0
+Calls without exactly one task,0
+Calls missing the agent or the caller,0
+Utterances with an empty reference,349
+Utterances that are only '[noise]',5672
+Calls where the agent is on channel 1 (unusual layout),37
