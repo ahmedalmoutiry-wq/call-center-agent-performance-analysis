@@ -1,0 +1,15 @@
+# GPU notebooks run on Google Colab (T4 GPU): 02 transcription, 04 summarization
+# Versions recorded from the Colab runtime used for the results in this repository.
+# Install with: pip install -r requirements.txt -r requirements-gpu.txt
+
+# Speech-to-text (notebook 02)
+faster-whisper==1.2.1
+av==18.1.0                     # av 19+ breaks faster-whisper 1.2.1
+nvidia-cublas-cu12==12.4.5.8   # CUDA 12 libraries needed by CTranslate2
+nvidia-cudnn-cu12==9.1.0.70
+
+# Language model (notebook 04)
+torch==2.11.0                  # Colab build: 2.11.0+cu130
+transformers==5.21.0
+accelerate==1.15.0
+safetensors==0.8.0
