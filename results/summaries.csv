@@ -1,0 +1,126 @@
+call_id,task_type,customer_issue,agent_action,outcome,parse_ok,issue_matches_task,ungrounded_numbers,raw_output,model
+08f360b3f3b844ef,check balance,The customer wanted to check her checking account balance.,The agent confirmed the customer's identity and provided her checking account balance of $90.,The customer expressed satisfaction and stated there was nothing else needed.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to check her checking account balance."",
+  ""agent_action"": ""The agent confirmed the customer's identity and provided her checking account balance of $90."",
+  ""outcome"": ""The customer expressed satisfaction and stated there was nothing else needed.""
+}",Qwen/Qwen3-4B-Instruct-2507
+09fc75fc02ea4b46,order checks,The customer needed a new checkbook.,The agent confirmed the address and sent a new checkbook to the customer's home address.,The call ended with the customer stating there was no further need for assistance.,True,True,,"{
+  ""customer_issue"": ""The customer needed a new checkbook."",
+  ""agent_action"": ""The agent confirmed the address and sent a new checkbook to the customer's home address."",
+  ""outcome"": ""The call ended with the customer stating there was no further need for assistance.""
+}",Qwen/Qwen3-4B-Instruct-2507
+0dee81761a5c45f9,check balance,The customer wanted to check the balance of his savings account.,The agent confirmed and provided the savings account balance of $46.,"The customer stated there was no other need, and the call ended.",True,True,,"{
+  ""customer_issue"": ""The customer wanted to check the balance of his savings account."",
+  ""agent_action"": ""The agent confirmed and provided the savings account balance of $46."",
+  ""outcome"": ""The customer stated there was no other need, and the call ended.""
+}",Qwen/Qwen3-4B-Instruct-2507
+0f87dc392db84250,order checks,The customer needed a new checkbook.,The agent confirmed the new checkbook was sent to the customer's address.,The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer needed a new checkbook."",
+  ""agent_action"": ""The agent confirmed the new checkbook was sent to the customer's address."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+37a7a35a1e244820,get branch hours,The customer wanted to know the local branch hours.,The agent provided the branch hours: 9:30 a.m. to 5 p.m.,The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to know the local branch hours."",
+  ""agent_action"": ""The agent provided the branch hours: 9:30 a.m. to 5 p.m."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+3bb5582020c24ae9,pay bill,The customer wanted to pay a $89 bill for Smart Electric.,The agent confirmed the payment details and sent the payment to Smart Electric.,The call ended with the customer thanking the agent and saying there was no further need for assistance.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to pay a $89 bill for Smart Electric."",
+  ""agent_action"": ""The agent confirmed the payment details and sent the payment to Smart Electric."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying there was no further need for assistance.""
+}",Qwen/Qwen3-4B-Instruct-2507
+45c7998bd5eb4101,schedule appointment,The customer wanted to schedule an appointment,The agent confirmed and scheduled the appointment for Tuesday at 10:45 a.m.,The call ended with the customer thanking the agent and saying goodbye,True,True,,"{
+  ""customer_issue"": ""The customer wanted to schedule an appointment"",
+  ""agent_action"": ""The agent confirmed and scheduled the appointment for Tuesday at 10:45 a.m."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye""
+}",Qwen/Qwen3-4B-Instruct-2507
+51cb5e31125c4235,get branch hours,The customer wanted to know the local branch hours.,The agent provided the branch hours: 9:30 a.m. to 5 p.m.,The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to know the local branch hours."",
+  ""agent_action"": ""The agent provided the branch hours: 9:30 a.m. to 5 p.m."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+663201e33f1a4e38,transfer money,The customer wanted to transfer $147 from her savings account to her checking account.,The agent transferred $147 from the customer's savings to her checking account.,The call ended with the customer stating they were good and thanking the agent.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to transfer $147 from her savings account to her checking account."",
+  ""agent_action"": ""The agent transferred $147 from the customer's savings to her checking account."",
+  ""outcome"": ""The call ended with the customer stating they were good and thanking the agent.""
+}",Qwen/Qwen3-4B-Instruct-2507
+7394fcc2bcb94c69,replace card,The customer lost his credit card and requested a replacement.,The agent confirmed the request and ordered a new credit card for the customer.,The customer was informed the new card would be sent soon and the call ended.,True,True,,"{
+  ""customer_issue"": ""The customer lost his credit card and requested a replacement."",
+  ""agent_action"": ""The agent confirmed the request and ordered a new credit card for the customer."",
+  ""outcome"": ""The customer was informed the new card would be sent soon and the call ended.""
+}",Qwen/Qwen3-4B-Instruct-2507
+796158bf207f4888,reset password,The customer needed to reset his password.,The agent sent a password reset link to the customer's phone number.,The customer thanked the agent and ended the call.,True,True,,"{
+  ""customer_issue"": ""The customer needed to reset his password."",
+  ""agent_action"": ""The agent sent a password reset link to the customer's phone number."",
+  ""outcome"": ""The customer thanked the agent and ended the call.""
+}",Qwen/Qwen3-4B-Instruct-2507
+7f3d383f8aff498d,check balance,The customer wanted to check her checking account balance.,The agent provided the customer with a balance of $115 for her checking account.,The customer confirmed there was no further need for assistance and thanked the agent.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to check her checking account balance."",
+  ""agent_action"": ""The agent provided the customer with a balance of $115 for her checking account."",
+  ""outcome"": ""The customer confirmed there was no further need for assistance and thanked the agent.""
+}",Qwen/Qwen3-4B-Instruct-2507
+8b04254fc6b447b1,transfer money,The customer wanted to transfer $133 from her savings to her checking account.,The agent processed a $133 transfer from savings to checking.,The transfer was completed; the customer stated there was nothing else needed.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to transfer $133 from her savings to her checking account."",
+  ""agent_action"": ""The agent processed a $133 transfer from savings to checking."",
+  ""outcome"": ""The transfer was completed; the customer stated there was nothing else needed.""
+}",Qwen/Qwen3-4B-Instruct-2507
+8c86097e491544df,check balance,The customer wanted to check his checking account balance.,The agent provided the customer with a balance of $84 for his checking account.,The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to check his checking account balance."",
+  ""agent_action"": ""The agent provided the customer with a balance of $84 for his checking account."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+8cee43b11a144b7d,pay bill,The customer wanted to pay a $65 bill for Fossil Gas.,"The agent confirmed the company name, address, and amount, then sent the payment.",The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to pay a $65 bill for Fossil Gas."",
+  ""agent_action"": ""The agent confirmed the company name, address, and amount, then sent the payment."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+92f32a1665c04695,replace card,The customer lost her debit card and needed a replacement.,The agent ordered a replacement debit card for the customer.,The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer lost her debit card and needed a replacement."",
+  ""agent_action"": ""The agent ordered a replacement debit card for the customer."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+96c25385230d4172,replace card,The customer lost their debit card and requested a replacement.,The agent ordered a replacement debit card for the customer.,The call ended with the customer thanking the agent and hanging up.,True,True,,"{
+  ""customer_issue"": ""The customer lost their debit card and requested a replacement."",
+  ""agent_action"": ""The agent ordered a replacement debit card for the customer."",
+  ""outcome"": ""The call ended with the customer thanking the agent and hanging up.""
+}",Qwen/Qwen3-4B-Instruct-2507
+9e05bd9ca9564089,get branch hours,The customer wanted to know the local branch hours.,The agent acknowledged the request and provided information about branch hours.,The call ended with the customer receiving branch hours information.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to know the local branch hours."",
+  ""agent_action"": ""The agent acknowledged the request and provided information about branch hours."",
+  ""outcome"": ""The call ended with the customer receiving branch hours information.""
+}",Qwen/Qwen3-4B-Instruct-2507
+a35cc473b91f4de0,order checks,The customer needed a new checkbook.,The agent confirmed the address and sent a new checkbook to the customer's home.,The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer needed a new checkbook."",
+  ""agent_action"": ""The agent confirmed the address and sent a new checkbook to the customer's home."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+b711d5c6db68429b,reset password,The customer wanted to reset her password.,The agent sent a password reset link to the customer's phone number.,The call ended after the customer confirmed there was no other need for assistance.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to reset her password."",
+  ""agent_action"": ""The agent sent a password reset link to the customer's phone number."",
+  ""outcome"": ""The call ended after the customer confirmed there was no other need for assistance.""
+}",Qwen/Qwen3-4B-Instruct-2507
+c09408163cb14e39,transfer money,The customer wanted to transfer $159 from her checking to her savings account.,The agent confirmed and processed the transfer of $159 from checking to savings.,The transfer was completed; the call ended with a thank-you and closing message.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to transfer $159 from her checking to her savings account."",
+  ""agent_action"": ""The agent confirmed and processed the transfer of $159 from checking to savings."",
+  ""outcome"": ""The transfer was completed; the call ended with a thank-you and closing message.""
+}",Qwen/Qwen3-4B-Instruct-2507
+c0c8d261058841ac,schedule appointment,The customer wanted to schedule an appointment.,The agent scheduled the appointment for Tuesday at 12 p.m.,The call ended with the customer stating there was no other need.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to schedule an appointment."",
+  ""agent_action"": ""The agent scheduled the appointment for Tuesday at 12 p.m."",
+  ""outcome"": ""The call ended with the customer stating there was no other need.""
+}",Qwen/Qwen3-4B-Instruct-2507
+cb7bc09bb8d440dc,schedule appointment,The customer wanted to schedule an appointment for Saturday at 4:30 p.m.,The agent confirmed and scheduled the appointment for Saturday at 4:30 p.m.,The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to schedule an appointment for Saturday at 4:30 p.m."",
+  ""agent_action"": ""The agent confirmed and scheduled the appointment for Saturday at 4:30 p.m."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+d3baa07088cf4c76,pay bill,The customer wanted to pay a bill for Fossil Gas.,The agent recorded the bill details and submitted the payment to Fossil Gas.,The call ended with the customer thanking the agent and saying goodbye.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to pay a bill for Fossil Gas."",
+  ""agent_action"": ""The agent recorded the bill details and submitted the payment to Fossil Gas."",
+  ""outcome"": ""The call ended with the customer thanking the agent and saying goodbye.""
+}",Qwen/Qwen3-4B-Instruct-2507
+f92c9662d77a4645,reset password,The customer wanted to reset his password.,The agent sent a password reset link to the customer's phone number.,The call ended with the customer stating there was no further need for assistance.,True,True,,"{
+  ""customer_issue"": ""The customer wanted to reset his password."",
+  ""agent_action"": ""The agent sent a password reset link to the customer's phone number."",
+  ""outcome"": ""The call ended with the customer stating there was no further need for assistance.""
+}",Qwen/Qwen3-4B-Instruct-2507

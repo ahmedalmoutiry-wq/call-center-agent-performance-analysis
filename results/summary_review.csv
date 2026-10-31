@@ -1,0 +1,95 @@
+call_id,task_type,transcript,customer_issue,agent_action,outcome,faithful,complete,review_notes
+08f360b3f3b844ef,check balance,"Agent: Hello, this is Harbor Valley National Bank. My name is Robert. How can I help you today?
+Customer: Hi. My name is Linda Smith. I need to check my account balance.
+Agent: Sure, I'd be happy to do that for you. And what's your name, please? Oh, right, it's Linda Smith. Sorry about that. Linda Smith, right.
+Customer: Linda Smith.
+Agent: Alright, I'm in. And which account would you like to check? Your savings account or your checking account?
+Customer: All is well. I'd like to check my checking account, please.
+Agent: Your checking account balance is $90 exactly.
+Customer: Fantastic. That's all I needed.
+Agent: Great. Is there anything else I could help you with today?
+Customer: Nope. That'll be everything. Thank you very much.
+Agent: Thank you for calling, have a great day.
+Customer: useful",The customer wanted to check her checking account balance.,The agent confirmed the customer's identity and provided her checking account balance of $90.,The customer expressed satisfaction and stated there was nothing else needed.,,,
+09fc75fc02ea4b46,order checks,"Agent: Hello, this is Harper Valley National Bank. My name is John. How can I help you today?
+Customer: Hi, my name is Michael Jones. I need a new checkbook
+Agent: What is your address?
+Customer: my address is seven three four Main Street
+Agent: Mm -hmm
+Customer: Harper Valley Oregon Oh one three two five
+Agent: a New checkbook has been sent to your home address. Is there anything else I can help you with?
+Customer: No, that was it
+Agent: Thank you for calling. Have a great day
+Customer: You too. Thanks",The customer needed a new checkbook.,The agent confirmed the address and sent a new checkbook to the customer's home address.,The call ended with the customer stating there was no further need for assistance.,,,
+663201e33f1a4e38,transfer money,"Agent: Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?
+Customer: Hi, my name is Linda Miller. I would like to transfer money between my accounts.
+Agent: Okay. What is the transfer amount?
+Customer: The amount is $147.
+Agent: What is the source account?
+Customer: I'd like it sourced from my savings account and sent to my checking.
+Agent: Okay, $147 has been transferred from your savings account to your checking account. Is there anything else I can help you with?
+Customer: I don't know. It looks like we should be good.
+Agent: All right. Thank you for calling. and have a great day.",The customer wanted to transfer $147 from her savings account to her checking account.,The agent transferred $147 from the customer's savings to her checking account.,The call ended with the customer stating they were good and thanking the agent.,,,
+7394fcc2bcb94c69,replace card,"Agent: Hello, this is Harper Valley National Bank. My name is David. How can I help you today?
+Customer: Hi, my name is James Brown. I lost my credit card. Can you send me a new one?
+Agent: Yes One moment, which card would you like to replace?
+Customer: My credit card.
+Agent: But okay, perfect. Your new credit card has been ordered and will be on the way soon Is there anything else I can help you with?
+Customer: Great. Thank you.
+Agent: Okay. Thank you for calling. Have a great day
+Customer: No, that was all. Bye. Have a good day.",The customer lost his credit card and requested a replacement.,The agent confirmed the request and ordered a new credit card for the customer.,The customer was informed the new card would be sent soon and the call ended.,,,
+7f3d383f8aff498d,check balance,"Agent: Hello, this is Harbor Valley National Bank. My name is John. How can I help you today?
+Customer: Hi, my name is Mary Smith, I need to check my account balance,
+Agent: Which account would you like to check?
+Customer: my checking account.
+Agent: Your checking account balance is $115.
+Customer: Oh wow, okay,
+Agent: Is there anything else I can help you with?
+Customer: that is it, thank you very much,
+Agent: All right. Thank you for calling. Have a great day.
+Customer: thank you.",The customer wanted to check her checking account balance.,The agent provided the customer with a balance of $115 for her checking account.,The customer confirmed there was no further need for assistance and thanked the agent.,,,
+8b04254fc6b447b1,transfer money,"Agent: Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?
+Customer: Hi, my name is Linda Miller. I would like to transfer money between my account.
+Agent: What is the transfer amount?
+Customer: The amount is $133.
+Agent: What is the source account?
+Customer: It's from my savings.
+Agent: What is the destination account?
+Customer: I want to transfer it to my checking account.
+Agent: Is there anything else I can – $133 has been transferred from your savings account to your checking account. Is there anything else I can help you with?
+Customer: That's actually all I need for today. Thank you so much.
+Agent: Thank you for calling. Have a great day.
+Customer: You too. Bye.",The customer wanted to transfer $133 from her savings to her checking account.,The agent processed a $133 transfer from savings to checking.,The transfer was completed; the customer stated there was nothing else needed.,,,
+8cee43b11a144b7d,pay bill,"Agent: Hello this is Harper Valley National Bank my name is Linda how can I help you today?
+Customer: Hi, my name is Jennifer Wilson. I would like to pay a bill.
+Agent: Okay what is the company name that you want to pay?
+Customer: The company is Fossil Gas.
+Agent: Okay and what is the company address?
+Customer: The address is 769 1st Street, Harper Valley, Oregon, 80968.
+Agent: Okay so that was seven six nine First Street Harper Valley Oregon seven zero nine six eight is that correct?
+Customer: 80968.
+Agent: Okay okay and what is the book bill amount.
+Customer: $65. dollars.
+Agent: Okay, we will send your payment to Fossil Gas. Is there anything else I can help you with?
+Customer: Nope, that's gonna be it. Thank you.
+Agent: Okay, thank you for calling and have a great day. Bye.
+Customer: You too.",The customer wanted to pay a $65 bill for Fossil Gas.,"The agent confirmed the company name, address, and amount, then sent the payment.",The call ended with the customer thanking the agent and saying goodbye.,,,
+9e05bd9ca9564089,get branch hours,"Agent: Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?
+Customer: Yes, hi, my name is Mary Wilson and I would what are the local branch hours?",The customer wanted to know the local branch hours.,The agent acknowledged the request and provided information about branch hours.,The call ended with the customer receiving branch hours information.,,,
+b711d5c6db68429b,reset password,"Agent: Hello, this is Harper Valley National Bank. My name is David. How can I help you today?
+Customer: Hi, my name is Linda Davis. I'd like to reset my password.
+Agent: Okay, what is your phone number?
+Customer: My phone number is 0303890619.
+Agent: Your password reset link has been sent to your phone. Is there anything else I can help you with?
+Customer: No.
+Agent: Thank you for calling and have a great day.",The customer wanted to reset her password.,The agent sent a password reset link to the customer's phone number.,The call ended after the customer confirmed there was no other need for assistance.,,,
+cb7bc09bb8d440dc,schedule appointment,"Agent: Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?
+Customer: Hi my name is Linda Williams and I would like to schedule an appointment
+Agent: What day would you like for your appointment?
+Customer: Saturday
+Agent: What time would you like for your appointment?
+Customer: 4 30 p .m.
+Agent: Your appointment has been scheduled for Saturday at 4 .30 p .m. Is there anything else I can help you with?
+Customer: No that's it thank you so much.
+Agent: Thank you for calling. Have a great day!
+Customer: Bye -bye.",The customer wanted to schedule an appointment for Saturday at 4:30 p.m.,The agent confirmed and scheduled the appointment for Saturday at 4:30 p.m.,The call ended with the customer thanking the agent and saying goodbye.,,,
