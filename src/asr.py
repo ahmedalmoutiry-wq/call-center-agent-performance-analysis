@@ -68,8 +68,11 @@ def load_whisper(model_size: str):
         return model, "cpu/int8"
 
 
-def transcribe_file(model, audio_file: Path) -> tuple[list[dict], list[dict], float]:
+def transcribe_file(model, audio_file: Path, **overrides) -> tuple[list[dict], list[dict], float]:
     """Transcribe one WAV file. Return (segments, words, seconds_taken).
+
+    `overrides` replace entries of ASR_SETTINGS for this call only, e.g.
+    vad_parameters={"threshold": 0.35} or vad_filter=False (used in experiments).
 
     segments - Whisper's text chunks. One chunk can span several sentences and
                the pauses between them, so its start/end times are coarse.
@@ -86,7 +89,8 @@ def transcribe_file(model, audio_file: Path) -> tuple[list[dict], list[dict], fl
         raise FileNotFoundError(f"{audio_file} not found. Download the subset audio first.")
 
     started = time.perf_counter()
-    segments, _info = model.transcribe(str(audio_file), **ASR_SETTINGS)
+    settings = {**ASR_SETTINGS, **overrides}
+    segments, _info = model.transcribe(str(audio_file), **settings)
 
     segment_rows, word_rows = [], []
     # `segments` is a generator: decoding actually happens while we loop over it
