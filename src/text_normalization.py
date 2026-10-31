@@ -26,6 +26,17 @@ def _number_to_words(match: re.Match) -> str:
     return " " + num2words(int(match.group(0))).replace("-", " ").replace(",", "") + " "
 
 
+def _digits_to_words(match: re.Match) -> str:
+    """Read a phone number, PIN or ZIP digit by digit: '0303' -> 'zero three zero three'.
+
+    Whisper writes spoken digit strings as one number ("0303890619"). Reading
+    that as a cardinal number ("three hundred and three million ...") would
+    create many false errors, because the speaker said the digits one by one.
+    Rule: a digit string that starts with 0 or has 5+ digits is read digit by digit.
+    """
+    return " " + " ".join(num2words(int(d)) for d in match.group(0)) + " "
+
+
 def _ordinal_to_words(match: re.Match) -> str:
     """Convert '3rd' to 'third'."""
     return " " + num2words(int(match.group(1)), to="ordinal").replace("-", " ") + " "
@@ -57,6 +68,8 @@ def normalize_text(text: str) -> str:
     text = re.sub(r"\b([ap])\.m\.?", r"\1 m", text)                     # a.m. -> a m
     text = re.sub(r"\b(\d{1,2}):(\d{2})\b", _time_to_words, text)       # 1:30 -> one thirty
     text = re.sub(r"\b(\d+)(st|nd|rd|th)\b", _ordinal_to_words, text)   # 3rd -> third
+    text = re.sub(r"(?<=\d)-(?=\d)", "", text)                         # 303-890 -> 303890
+    text = re.sub(r"\b0\d*|\b\d{5,}", _digits_to_words, text)          # 0303890619 -> zero three zero ...
     text = re.sub(r"\d+", _number_to_words, text)                       # 146 -> one hundred ...
 
     # 4. punctuation: keep letters, apostrophes (it's, i'd) and spaces
@@ -78,6 +91,8 @@ NORMALIZATION_EXAMPLES = [
     ("11am", "eleven a m"),
     ("Okay, all right.", "okay alright"),
     ("It's the 3rd.", "it's the third"),
+    ("My phone number is 0303890619.", "my phone number is zero three zero three eight nine zero six one nine"),
+    ("It is 303-890-619", "it is three zero three eight nine zero six one nine"),
 ]
 
 
