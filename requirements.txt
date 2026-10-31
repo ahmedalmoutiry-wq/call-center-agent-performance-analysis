@@ -5,3 +5,8 @@ matplotlib==3.9.3
 
 # Run Jupyter notebooks inside VS Code
 ipykernel==6.29.5
+
+# Speech-to-text and evaluation (notebook 02, run on Google Colab)
+faster-whisper==1.2.1
+jiwer==4.0.0
+num2words==0.5.14
