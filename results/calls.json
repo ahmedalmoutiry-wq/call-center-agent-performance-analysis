@@ -1,0 +1,2593 @@
+[
+  {
+    "call_id": "08f360b3f3b844ef",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.84,
+        "end_s": 7.26,
+        "text": "Hello, this is Harbor Valley National Bank. My name is Robert. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 10.89,
+        "end_s": 14.59,
+        "text": "Hi. My name is Linda Smith. I need to check my account balance."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 14.5,
+        "end_s": 24.04,
+        "text": "Sure, I'd be happy to do that for you. And what's your name, please? Oh, right, it's Linda Smith. Sorry about that. Linda Smith, right."
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 23.1,
+        "end_s": 24.14,
+        "text": "Linda Smith."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 25.32,
+        "end_s": 30.02,
+        "text": "Alright, I'm in. And which account would you like to check? Your savings account or your checking account?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 25.84,
+        "end_s": 35.58,
+        "text": "All is well. I'd like to check my checking account, please."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 42.2,
+        "end_s": 45.32,
+        "text": "Your checking account balance is $90 exactly."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 49.76,
+        "end_s": 51.24,
+        "text": "Fantastic. That's all I needed."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 50.36,
+        "end_s": 52.14,
+        "text": "Great. Is there anything else I could help you with today?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 55.8,
+        "end_s": 58.28,
+        "text": "Nope. That'll be everything. Thank you very much."
+      },
+      {
+        "turn": 11,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 56.62,
+        "end_s": 58.12,
+        "text": "Thank you for calling, have a great day."
+      },
+      {
+        "turn": 12,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 60.52,
+        "end_s": 61.48,
+        "text": "useful"
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to check her checking account balance.",
+      "agent_action": "The agent confirmed the customer's identity and provided her checking account balance of $90.",
+      "outcome": "The customer expressed satisfaction and stated there was nothing else needed."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses satisfaction and closes the call politely.",
+      "evidence": "Fantastic. That's all I needed.",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 7.1%.",
+      "Word error rate (agent side): 2.3%.",
+      "1 turn(s) with low recognition confidence; their text may be wrong.",
+      "8 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "0dee81761a5c45f9",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 2.7,
+        "end_s": 7.9,
+        "text": "Hello, this is Harper Valley National Bank. My nickname is Robert. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 11.44,
+        "end_s": 19.1,
+        "text": "Hi, my name is Michael Davis. I need to check my account balance."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 25.56,
+        "end_s": 27.32,
+        "text": "I'm sorry, can you repeat that for me?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 30.79,
+        "end_s": 32.81,
+        "text": "I need to check my account balance"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 35.5,
+        "end_s": 36.78,
+        "text": "Which account would you like to check?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 39.94,
+        "end_s": 41.46,
+        "text": "My savings account"
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 44.04,
+        "end_s": 52.96,
+        "text": "Your savings account balance is $46. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 57.2,
+        "end_s": 59.1,
+        "text": "no, that's it"
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 59.23,
+        "end_s": 61.29,
+        "text": "Thank you for calling. Have a great day."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to check the balance of his savings account.",
+      "agent_action": "The agent confirmed and provided the savings account balance of $46.",
+      "outcome": "The customer stated there was no other need, and the call ended."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request with no emotional tone or expression.",
+      "evidence": "I need to check my account balance",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 0.0%.",
+      "Word error rate (agent side): 1.8%."
+    ]
+  },
+  {
+    "call_id": "7f3d383f8aff498d",
+    "speakers": {
+      "Speaker 1": "Agent",
+      "Speaker 2": "Customer"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 1",
+        "role": "Agent",
+        "start_s": 4.72,
+        "end_s": 11.18,
+        "text": "Hello, this is Harbor Valley National Bank. My name is John. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 2",
+        "role": "Customer",
+        "start_s": 10.25,
+        "end_s": 14.09,
+        "text": "Hi, my name is Mary Smith, I need to check my account balance,"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 1",
+        "role": "Agent",
+        "start_s": 22.28,
+        "end_s": 23.66,
+        "text": "Which account would you like to check?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 2",
+        "role": "Customer",
+        "start_s": 23.03,
+        "end_s": 23.87,
+        "text": "my checking account."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 1",
+        "role": "Agent",
+        "start_s": 31.44,
+        "end_s": 36.24,
+        "text": "Your checking account balance is $115."
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 2",
+        "role": "Customer",
+        "start_s": 36.56,
+        "end_s": 38.46,
+        "text": "Oh wow, okay,"
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 1",
+        "role": "Agent",
+        "start_s": 40.53,
+        "end_s": 42.39,
+        "text": "Is there anything else I can help you with?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 2",
+        "role": "Customer",
+        "start_s": 41.92,
+        "end_s": 44.62,
+        "text": "that is it, thank you very much,"
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 1",
+        "role": "Agent",
+        "start_s": 47.28,
+        "end_s": 49.8,
+        "text": "All right. Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 2",
+        "role": "Customer",
+        "start_s": 48.73,
+        "end_s": 48.93,
+        "text": "thank you."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to check her checking account balance.",
+      "agent_action": "The agent provided the customer with a balance of $115 for her checking account.",
+      "outcome": "The customer confirmed there was no further need for assistance and thanked the agent."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request and expresses no emotion beyond basic acknowledgment.",
+      "evidence": "that is it, thank you very much",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (agent side): 3.9%.",
+      "Word error rate (customer side): 10.3%.",
+      "4 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "8c86097e491544df",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.58,
+        "end_s": 6.68,
+        "text": "Hello, this is Harbor Valley National Bank. My name is Joan. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.49,
+        "end_s": 13.61,
+        "text": "Hi, Joan. My name is Michael Smith. I need to check my account balance."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 12.71,
+        "end_s": 16.73,
+        "text": "Sure, I can help you with that. Which account would you like to check?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 20.13,
+        "end_s": 21.31,
+        "text": "My checking account?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 21.35,
+        "end_s": 28.59,
+        "text": "Sure, so your checking account balance is $84. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 31.62,
+        "end_s": 32.74,
+        "text": "Nope, that was it."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 31.82,
+        "end_s": 34.1,
+        "text": "Okay. Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 36.95,
+        "end_s": 37.79,
+        "text": "You too. Thank you."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 37.22,
+        "end_s": 37.7,
+        "text": "Bye now."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to check his checking account balance.",
+      "agent_action": "The agent provided the customer with a balance of $84 for his checking account.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request and ends the call without expressing emotion or frustration.",
+      "evidence": "My checking account? Nope, that was it.",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 4.0%.",
+      "Word error rate (agent side): 3.3%.",
+      "4 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "37a7a35a1e244820",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 3.12,
+        "end_s": 8.22,
+        "text": "Hello, this is Harper Valley National Bank. My name is Jennifer. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.14,
+        "end_s": 13.22,
+        "text": "Hi, my name is Linda Williams. What are their local branch hours?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 19.86,
+        "end_s": 23.62,
+        "text": "The branch hours are 9 30 a .m. To 5 p .m."
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 25.32,
+        "end_s": 39.52,
+        "text": "Okay. Thank you. Um That's what I need for today. Thank you so much"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 43.12,
+        "end_s": 44.72,
+        "text": "Thank you for calling. Have a great day!"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 45.46,
+        "end_s": 46.78,
+        "text": "You too. Bye"
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to know the local branch hours.",
+      "agent_action": "The agent provided the branch hours: 9:30 a.m. to 5 p.m.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses gratitude and politely concludes the call without frustration or dissatisfaction.",
+      "evidence": "Thank you so much",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 13.8%.",
+      "Word error rate (agent side): 0.0%."
+    ]
+  },
+  {
+    "call_id": "51cb5e31125c4235",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.62,
+        "end_s": 6.64,
+        "text": "Hello, this is Harper Valley National Bank. My name is John. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.65,
+        "end_s": 14.23,
+        "text": "Hi, John. My name is Jennifer Davis. I was wondering what your local branch hours are."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 14.27,
+        "end_s": 17.27,
+        "text": "The branch hours are 9 .30 a .m. to 5 p .m."
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 21.0,
+        "end_s": 22.66,
+        "text": "Wonderful. Thank you so much."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 23.58,
+        "end_s": 26.8,
+        "text": "Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 30.27,
+        "end_s": 31.39,
+        "text": "Nope, that'll do it."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 30.36,
+        "end_s": 32.32,
+        "text": "Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 35.23,
+        "end_s": 36.61,
+        "text": "You too. Thank you so much."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to know the local branch hours.",
+      "agent_action": "The agent provided the branch hours: 9:30 a.m. to 5 p.m.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses gratitude and polite acknowledgment throughout the interaction.",
+      "evidence": "Thank you so much.",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 0.0%.",
+      "Word error rate (agent side): 8.0%.",
+      "2 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "9e05bd9ca9564089",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.39,
+        "end_s": 5.63,
+        "text": "Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 10.0,
+        "end_s": 17.3,
+        "text": "Yes, hi, my name is Mary Wilson and I would what are the local branch hours?"
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to know the local branch hours.",
+      "agent_action": "The agent acknowledged the request and provided information about branch hours.",
+      "outcome": "The call ended with the customer receiving branch hours information."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite, straightforward request without expressing emotion.",
+      "evidence": "my name is Mary Wilson and I would what are the local branch hours?",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 0.0%.",
+      "Word error rate (agent side): 0.0%."
+    ]
+  },
+  {
+    "call_id": "09fc75fc02ea4b46",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.78,
+        "end_s": 6.04,
+        "text": "Hello, this is Harper Valley National Bank. My name is John. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.74,
+        "end_s": 15.06,
+        "text": "Hi, my name is Michael Jones. I need a new checkbook"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 16.39,
+        "end_s": 17.67,
+        "text": "What is your address?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 21.21,
+        "end_s": 27.91,
+        "text": "my address is seven three four Main Street"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 35.18,
+        "end_s": 35.78,
+        "text": "Mm -hmm"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 38.48,
+        "end_s": 50.24,
+        "text": "Harper Valley Oregon Oh one three two five"
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 55.24,
+        "end_s": 61.04,
+        "text": "a New checkbook has been sent to your home address. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 64.42,
+        "end_s": 66.0,
+        "text": "No, that was it"
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 65.47,
+        "end_s": 67.37,
+        "text": "Thank you for calling. Have a great day"
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 70.07,
+        "end_s": 71.61,
+        "text": "You too. Thanks"
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer needed a new checkbook.",
+      "agent_action": "The agent confirmed the address and sent a new checkbook to the customer's home address.",
+      "outcome": "The call ended with the customer stating there was no further need for assistance."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request and ends the call without expressing emotion or satisfaction.",
+      "evidence": "No, that was it",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 0.0%.",
+      "Word error rate (agent side): 0.0%.",
+      "2 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "0f87dc392db84250",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 2.18,
+        "end_s": 7.6,
+        "text": "Hello. This is Hupa Valley National Bank. My name is Jennifer. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.74,
+        "end_s": 13.08,
+        "text": "Hi, my name is James Brown. I need a new checkbook."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 16.63,
+        "end_s": 20.11,
+        "text": "Okay. What is your address?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 24.95,
+        "end_s": 42.34,
+        "text": "545 Main Street, Forest Ranch, California, 58558."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 46.72,
+        "end_s": 53.46,
+        "text": "Okay, ma 'am, a new checkbook has been sent to your address. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 55.4,
+        "end_s": 57.34,
+        "text": "No, that's it. Thank you."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 58.62,
+        "end_s": 61.3,
+        "text": "Okay. Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 63.43,
+        "end_s": 64.43,
+        "text": "You too. Goodbye."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 66.21,
+        "end_s": 66.45,
+        "text": "Bye."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer needed a new checkbook.",
+      "agent_action": "The agent confirmed the new checkbook was sent to the customer's address.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request and ends the call without expressing emotion or satisfaction.",
+      "evidence": "No, that's it. Thank you.",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 18.8%.",
+      "Word error rate (agent side): 7.4%."
+    ]
+  },
+  {
+    "call_id": "a35cc473b91f4de0",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.26,
+        "end_s": 6.02,
+        "text": "Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 3.41,
+        "end_s": 14.8,
+        "text": "Hi, my name is Mary Brown. I need a new checkbook."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 15.81,
+        "end_s": 16.93,
+        "text": "What is your address?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 21.51,
+        "end_s": 44.14,
+        "text": "My address is 137 First Street, Harper Valley, Oregon, 1 -4 -8 -6 -2."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 45.22,
+        "end_s": 50.14,
+        "text": "A new checkbook has been sent to your home address. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 56.02,
+        "end_s": 57.88,
+        "text": "No, that's everything. Thank you very much."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 57.15,
+        "end_s": 58.83,
+        "text": "Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 62.04,
+        "end_s": 62.7,
+        "text": "Thank you. Bye."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer needed a new checkbook.",
+      "agent_action": "The agent confirmed the address and sent a new checkbook to the customer's home.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses gratitude and closes the call politely.",
+      "evidence": "Thank you very much.",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 8.1%.",
+      "Word error rate (agent side): 2.0%.",
+      "4 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "3bb5582020c24ae9",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.78,
+        "end_s": 6.5,
+        "text": "Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 7.7,
+        "end_s": 11.36,
+        "text": "Hi, my name is James Garcia. I would like to pay a bill."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 13.56,
+        "end_s": 14.72,
+        "text": "What is the company name?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 16.23,
+        "end_s": 18.45,
+        "text": "The company is Smart Electric."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 20.21,
+        "end_s": 21.81,
+        "text": "What is the company address?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 23.56,
+        "end_s": 40.6,
+        "text": "The address is 714 1st Street, Forest Ranch, Oregon, 33418."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 42.23,
+        "end_s": 43.53,
+        "text": "What is the bill amount?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 44.81,
+        "end_s": 46.91,
+        "text": "The amount of the bill is $89."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 49.75,
+        "end_s": 54.49,
+        "text": "We will send your payment to Smart Electric. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 55.62,
+        "end_s": 56.48,
+        "text": "No, thank you."
+      },
+      {
+        "turn": 11,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 57.47,
+        "end_s": 59.25,
+        "text": "Thank you for calling. Have a great day."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to pay a $89 bill for Smart Electric.",
+      "agent_action": "The agent confirmed the payment details and sent the payment to Smart Electric.",
+      "outcome": "The call ended with the customer thanking the agent and saying there was no further need for assistance."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes polite requests with no emotional expression or frustration.",
+      "evidence": "Hi, my name is James Garcia. I would like to pay a bill.",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 6.5%.",
+      "Word error rate (agent side): 0.0%."
+    ]
+  },
+  {
+    "call_id": "8cee43b11a144b7d",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.3,
+        "end_s": 6.5,
+        "text": "Hello this is Harper Valley National Bank my name is Linda how can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 10.1,
+        "end_s": 14.24,
+        "text": "Hi, my name is Jennifer Wilson. I would like to pay a bill."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 14.29,
+        "end_s": 18.49,
+        "text": "Okay what is the company name that you want to pay?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 21.7,
+        "end_s": 23.74,
+        "text": "The company is Fossil Gas."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 26.3,
+        "end_s": 28.78,
+        "text": "Okay and what is the company address?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 32.42,
+        "end_s": 45.38,
+        "text": "The address is 769 1st Street, Harper Valley, Oregon, 80968."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 51.14,
+        "end_s": 59.4,
+        "text": "Okay so that was seven six nine First Street Harper Valley Oregon seven zero nine six eight is that correct?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 64.7,
+        "end_s": 65.64,
+        "text": "80968."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 67.69,
+        "end_s": 74.67,
+        "text": "Okay okay and what is the book bill amount."
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 78.34,
+        "end_s": 79.7,
+        "text": "$65. dollars."
+      },
+      {
+        "turn": 11,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 82.42,
+        "end_s": 87.38,
+        "text": "Okay, we will send your payment to Fossil Gas. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 91.02,
+        "end_s": 92.44,
+        "text": "Nope, that's gonna be it. Thank you."
+      },
+      {
+        "turn": 13,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 91.38,
+        "end_s": 96.94,
+        "text": "Okay, thank you for calling and have a great day. Bye."
+      },
+      {
+        "turn": 14,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 97.25,
+        "end_s": 97.75,
+        "text": "You too."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to pay a $65 bill for Fossil Gas.",
+      "agent_action": "The agent confirmed the company name, address, and amount, then sent the payment.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request with no emotional expression or feedback beyond standard transactional statements.",
+      "evidence": "I would like to pay a bill. Nope, that's gonna be it. Thank you.",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 7.8%.",
+      "Word error rate (agent side): 1.1%.",
+      "2 turn(s) overlap the other speaker; their order is approximate.",
+      "Automatic check: the sentiment evidence is not an exact customer quote."
+    ]
+  },
+  {
+    "call_id": "d3baa07088cf4c76",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 0.0,
+        "end_s": 5.34,
+        "text": "Hello, this is Upper Valley National Bank. My name is Patricia. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 16.75,
+        "end_s": 17.33,
+        "text": "Hello,"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 18.89,
+        "end_s": 23.61,
+        "text": "Hello, this is Upper Valley National Bank. My name is Patricia. How can I help you today?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 21.35,
+        "end_s": 28.16,
+        "text": "can you hear me?"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 27.91,
+        "end_s": 31.85,
+        "text": "I can hear you Hello, my name is Patricia"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 32.1,
+        "end_s": 37.98,
+        "text": "OK, yes. Yes, hello, my name is Mary Johnson."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 38.25,
+        "end_s": 40.01,
+        "text": "Okay, how can I help you today?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 40.96,
+        "end_s": 44.52,
+        "text": "I would like to pay a bill."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 47.12,
+        "end_s": 48.62,
+        "text": "Okay, what's the company name?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 52.4,
+        "end_s": 57.68,
+        "text": "Fossil gas, F -O -S -S -I -L -G -A -S,"
+      },
+      {
+        "turn": 11,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 57.14,
+        "end_s": 59.68,
+        "text": "Okay, and what's the company address?"
+      },
+      {
+        "turn": 12,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 63.32,
+        "end_s": 82.38,
+        "text": "657 1st Street In forest, ranch, two words, forest, like where all the animals live, ranch, and that is in Oregon, zip code 26450,"
+      },
+      {
+        "turn": 13,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 88.09,
+        "end_s": 90.65,
+        "text": "Okay, what's that zip code again? Six what?"
+      },
+      {
+        "turn": 14,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 93.8,
+        "end_s": 96.74,
+        "text": "26450,"
+      },
+      {
+        "turn": 15,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 101.04,
+        "end_s": 105.34,
+        "text": "Okay, I have just, what's the bill amount?"
+      },
+      {
+        "turn": 16,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 108.31,
+        "end_s": 109.57,
+        "text": "149,"
+      },
+      {
+        "turn": 17,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 115.46,
+        "end_s": 121.78,
+        "text": "Okay, I have submitted your bill payment to force you gas. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 18,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 125.05,
+        "end_s": 127.47,
+        "text": "no sir, that's everything, thank you so much."
+      },
+      {
+        "turn": 19,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 127.09,
+        "end_s": 129.29,
+        "text": "Okay, thank you for calling. Have a great day."
+      },
+      {
+        "turn": 20,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 132.37,
+        "end_s": 133.29,
+        "text": "Me too, bye bye."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to pay a bill for Fossil Gas.",
+      "agent_action": "The agent recorded the bill details and submitted the payment to Fossil Gas.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses gratitude and closes the call politely.",
+      "evidence": "thank you so much",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 12.4%.",
+      "Word error rate (agent side): 8.5%.",
+      "1 turn(s) with low recognition confidence; their text may be wrong.",
+      "4 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "7394fcc2bcb94c69",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 2.0,
+        "end_s": 6.72,
+        "text": "Hello, this is Harper Valley National Bank. My name is David. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 10.29,
+        "end_s": 15.73,
+        "text": "Hi, my name is James Brown. I lost my credit card. Can you send me a new one?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 15.38,
+        "end_s": 19.58,
+        "text": "Yes One moment, which card would you like to replace?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 23.42,
+        "end_s": 24.38,
+        "text": "My credit card."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 25.67,
+        "end_s": 34.7,
+        "text": "But okay, perfect. Your new credit card has been ordered and will be on the way soon Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 34.41,
+        "end_s": 35.25,
+        "text": "Great. Thank you."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 37.96,
+        "end_s": 39.94,
+        "text": "Okay. Thank you for calling. Have a great day"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 38.17,
+        "end_s": 43.93,
+        "text": "No, that was all. Bye. Have a good day."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer lost his credit card and requested a replacement.",
+      "agent_action": "The agent confirmed the request and ordered a new credit card for the customer.",
+      "outcome": "The customer was informed the new card would be sent soon and the call ended."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses satisfaction with the resolution and ends the call politely and warmly.",
+      "evidence": "Great. Thank you.",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 0.0%.",
+      "Word error rate (agent side): 1.6%.",
+      "2 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "92f32a1665c04695",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.95,
+        "end_s": 6.79,
+        "text": "Hello. This is Hopper Valley National Bank. My name is Mary. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.58,
+        "end_s": 14.7,
+        "text": "Hi, my name is Linda Brown. I lost my debit card. Can you send me a new one?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 14.07,
+        "end_s": 15.81,
+        "text": "Okay. You'd like to replace your debit card?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 19.3,
+        "end_s": 21.12,
+        "text": "Yes, my debit card."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 19.94,
+        "end_s": 23.54,
+        "text": "I've ordered your replacement debit card. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 26.68,
+        "end_s": 28.94,
+        "text": "Oh no, it's actually what I need for today. Thank you."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 27.91,
+        "end_s": 30.51,
+        "text": "You're welcome. Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 33.52,
+        "end_s": 34.4,
+        "text": "You too. Bye."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer lost her debit card and needed a replacement.",
+      "agent_action": "The agent ordered a replacement debit card for the customer.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses gratitude and closes the call politely.",
+      "evidence": "Oh no, it's actually what I need for today. Thank you.",
+      "beginning": "negative",
+      "end": "neutral",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 17.9%.",
+      "Word error rate (agent side): 4.1%.",
+      "6 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "96c25385230d4172",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 2.16,
+        "end_s": 5.44,
+        "text": "Hello, this is Harper Valley National Bank. My name is Linda."
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 7.6,
+        "end_s": 14.26,
+        "text": "Hi, my name is Mary Jones. I lost my debit card. Can you send me a new one?"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 17.92,
+        "end_s": 19.34,
+        "text": "Which card would you like to replace?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 21.58,
+        "end_s": 22.92,
+        "text": "My debit card."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 30.45,
+        "end_s": 35.47,
+        "text": "I've ordered your replacement debit card. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 36.92,
+        "end_s": 41.0,
+        "text": "No, that's all I needed help with. Thank you. Bye bye."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 37.52,
+        "end_s": 41.26,
+        "text": "Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 42.3,
+        "end_s": 44.14,
+        "text": "Thanks. Bye."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer lost their debit card and requested a replacement.",
+      "agent_action": "The agent ordered a replacement debit card for the customer.",
+      "outcome": "The call ended with the customer thanking the agent and hanging up."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses gratitude and closes the call politely.",
+      "evidence": "Thank you. Bye.",
+      "beginning": "negative",
+      "end": "neutral",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 0.0%.",
+      "Word error rate (agent side): 0.0%.",
+      "2 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "796158bf207f4888",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.39,
+        "end_s": 5.77,
+        "text": "Hello, this is Harper Valley National Bank. My name is David. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.04,
+        "end_s": 14.12,
+        "text": "Hello, my name is Robert Rodriguez. I need to reset. I would like to reset my password."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 14.82,
+        "end_s": 15.84,
+        "text": "What is your phone number?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 20.21,
+        "end_s": 30.15,
+        "text": "My phone number is One nine seven Five five two Two four two four."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 32.63,
+        "end_s": 37.71,
+        "text": "Your password reset link has been sent to your phone. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 41.61,
+        "end_s": 44.81,
+        "text": "No, that was going to be it for today. Thank you."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 43.06,
+        "end_s": 44.7,
+        "text": "Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 47.84,
+        "end_s": 49.08,
+        "text": "You too. Bye"
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer needed to reset his password.",
+      "agent_action": "The agent sent a password reset link to the customer's phone number.",
+      "outcome": "The customer thanked the agent and ended the call."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request and ends the call without expressing emotion or frustration.",
+      "evidence": "No, that was going to be it for today. Thank you.",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 4.5%.",
+      "Word error rate (agent side): 0.0%.",
+      "2 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "b711d5c6db68429b",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.9,
+        "end_s": 6.84,
+        "text": "Hello, this is Harper Valley National Bank. My name is David. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 11.15,
+        "end_s": 16.35,
+        "text": "Hi, my name is Linda Davis. I'd like to reset my password."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 16.69,
+        "end_s": 18.37,
+        "text": "Okay, what is your phone number?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 23.01,
+        "end_s": 31.17,
+        "text": "My phone number is 0303890619."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 33.86,
+        "end_s": 38.24,
+        "text": "Your password reset link has been sent to your phone. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 42.19,
+        "end_s": 42.61,
+        "text": "No."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 42.28,
+        "end_s": 44.12,
+        "text": "Thank you for calling and have a great day."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to reset her password.",
+      "agent_action": "The agent sent a password reset link to the customer's phone number.",
+      "outcome": "The call ended after the customer confirmed there was no other need for assistance."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request with no emotional tone or expression of frustration or satisfaction.",
+      "evidence": "I'd like to reset my password.",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 7.7%.",
+      "Word error rate (agent side): 0.0%."
+    ]
+  },
+  {
+    "call_id": "f92c9662d77a4645",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 2.48,
+        "end_s": 7.68,
+        "text": "Hello, this is Harper Valley National Bank. My name is Elizabeth. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 10.86,
+        "end_s": 14.78,
+        "text": "Hi, my name is Michael Brown. I would like to reset my password."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 17.22,
+        "end_s": 18.32,
+        "text": "What is your phone number?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 21.76,
+        "end_s": 30.36,
+        "text": "My phone number is 026 -134 -1710."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 34.39,
+        "end_s": 40.19,
+        "text": "Your password reset link has been sent to your phone. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 43.2,
+        "end_s": 44.68,
+        "text": "Now that'll be all."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 44.87,
+        "end_s": 46.99,
+        "text": "Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 50.74,
+        "end_s": 50.96,
+        "text": "Thanks."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to reset his password.",
+      "agent_action": "The agent sent a password reset link to the customer's phone number.",
+      "outcome": "The call ended with the customer stating there was no further need for assistance."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request and ends the call without expressing emotion or frustration.",
+      "evidence": "Now that'll be all.",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 3.1%.",
+      "Word error rate (agent side): 4.2%."
+    ]
+  },
+  {
+    "call_id": "45c7998bd5eb4101",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 0.0,
+        "end_s": 6.26,
+        "text": "Hello, this is Akavali National Bank. My name is Linda. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.39,
+        "end_s": 13.11,
+        "text": "Hi, my name is Elizabeth Brown. I would like to schedule an appointment"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 16.94,
+        "end_s": 18.86,
+        "text": "What day would you like for your appointment?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 22.58,
+        "end_s": 23.16,
+        "text": "Tuesday"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 28.15,
+        "end_s": 30.03,
+        "text": "What time would you like for your appointment?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 34.16,
+        "end_s": 35.44,
+        "text": "1045 a .m."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 36.98,
+        "end_s": 38.26,
+        "text": "10 .45, you said?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 41.8,
+        "end_s": 43.8,
+        "text": "Yes, 1045 a .m."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 60.57,
+        "end_s": 67.31,
+        "text": "Your appointments have been scheduled for Tuesday at 10 .45 a .m. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 70.55,
+        "end_s": 72.35,
+        "text": "No, that's all thank you."
+      },
+      {
+        "turn": 11,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 72.74,
+        "end_s": 75.18,
+        "text": "Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 12,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 77.96,
+        "end_s": 79.28,
+        "text": "You too. Bye"
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to schedule an appointment",
+      "agent_action": "The agent confirmed and scheduled the appointment for Tuesday at 10:45 a.m.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye"
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request with no emotional expression or sentiment.",
+      "evidence": "I would like to schedule an appointment",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 18.2%.",
+      "Word error rate (agent side): 11.4%."
+    ]
+  },
+  {
+    "call_id": "c0c8d261058841ac",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.01,
+        "end_s": 5.71,
+        "text": "Hello, this is Hopper Valley National Bank. My name is John. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.36,
+        "end_s": 11.24,
+        "text": "I would like to schedule an appointment."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 13.11,
+        "end_s": 15.49,
+        "text": "What day would you like for your appointment?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 19.78,
+        "end_s": 21.38,
+        "text": "Tuesday 12"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 20.44,
+        "end_s": 22.2,
+        "text": "What time would you like for your appointment?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 27.52,
+        "end_s": 28.0,
+        "text": "p .m."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 30.43,
+        "end_s": 36.63,
+        "text": "Your appointment has been scheduled for Tuesday at 12 p .m. Is there anything else I can help you with today?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 40.7,
+        "end_s": 42.36,
+        "text": "No, that is it."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 42.19,
+        "end_s": 43.75,
+        "text": "Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 46.89,
+        "end_s": 47.37,
+        "text": "You too."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to schedule an appointment.",
+      "agent_action": "The agent scheduled the appointment for Tuesday at 12 p.m.",
+      "outcome": "The call ended with the customer stating there was no other need."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request with no emotional expression or feedback.",
+      "evidence": "I would like to schedule an appointment.",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 5.9%.",
+      "Word error rate (agent side): 3.2%.",
+      "2 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "cb7bc09bb8d440dc",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.97,
+        "end_s": 6.57,
+        "text": "Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 9.58,
+        "end_s": 14.38,
+        "text": "Hi my name is Linda Williams and I would like to schedule an appointment"
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 14.99,
+        "end_s": 16.43,
+        "text": "What day would you like for your appointment?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 20.99,
+        "end_s": 21.71,
+        "text": "Saturday"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 23.46,
+        "end_s": 24.86,
+        "text": "What time would you like for your appointment?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 28.11,
+        "end_s": 30.05,
+        "text": "4 30 p .m."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 33.31,
+        "end_s": 38.91,
+        "text": "Your appointment has been scheduled for Saturday at 4 .30 p .m. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 41.79,
+        "end_s": 43.85,
+        "text": "No that's it thank you so much."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 43.07,
+        "end_s": 44.67,
+        "text": "Thank you for calling. Have a great day!"
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 47.43,
+        "end_s": 48.03,
+        "text": "Bye -bye."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to schedule an appointment for Saturday at 4:30 p.m.",
+      "agent_action": "The agent confirmed and scheduled the appointment for Saturday at 4:30 p.m.",
+      "outcome": "The call ended with the customer thanking the agent and saying goodbye."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses gratitude and closes the call politely, indicating satisfaction with the service.",
+      "evidence": "Thank you so much.",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 7.7%.",
+      "Word error rate (agent side): 0.0%.",
+      "1 turn(s) with low recognition confidence; their text may be wrong.",
+      "2 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "663201e33f1a4e38",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 2.74,
+        "end_s": 9.48,
+        "text": "Hello, this is Harper Valley National Bank. My name is Mary. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 13.07,
+        "end_s": 17.97,
+        "text": "Hi, my name is Linda Miller. I would like to transfer money between my accounts."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 17.38,
+        "end_s": 29.58,
+        "text": "Okay. What is the transfer amount?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 33.48,
+        "end_s": 35.04,
+        "text": "The amount is $147."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 42.16,
+        "end_s": 43.72,
+        "text": "What is the source account?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 47.62,
+        "end_s": 51.48,
+        "text": "I'd like it sourced from my savings account and sent to my checking."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 61.3,
+        "end_s": 76.29,
+        "text": "Okay, $147 has been transferred from your savings account to your checking account. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 74.58,
+        "end_s": 82.27,
+        "text": "I don't know. It looks like we should be good."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 81.52,
+        "end_s": 85.36,
+        "text": "All right. Thank you for calling. and have a great day."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to transfer $147 from her savings account to her checking account.",
+      "agent_action": "The agent transferred $147 from the customer's savings to her checking account.",
+      "outcome": "The call ended with the customer stating they were good and thanking the agent."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a polite request with no emotional expression or clear sentiment.",
+      "evidence": "I don't know. It looks like we should be good.",
+      "beginning": "neutral",
+      "end": "positive",
+      "change": "improved"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 11.1%.",
+      "Word error rate (agent side): 1.6%.",
+      "5 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "8b04254fc6b447b1",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 1.01,
+        "end_s": 5.63,
+        "text": "Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 8.59,
+        "end_s": 13.47,
+        "text": "Hi, my name is Linda Miller. I would like to transfer money between my account."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 12.79,
+        "end_s": 14.01,
+        "text": "What is the transfer amount?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 18.64,
+        "end_s": 20.8,
+        "text": "The amount is $133."
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 21.5,
+        "end_s": 22.64,
+        "text": "What is the source account?"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 26.35,
+        "end_s": 27.69,
+        "text": "It's from my savings."
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 27.84,
+        "end_s": 29.1,
+        "text": "What is the destination account?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 32.66,
+        "end_s": 35.16,
+        "text": "I want to transfer it to my checking account."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 34.96,
+        "end_s": 43.0,
+        "text": "Is there anything else I can – $133 has been transferred from your savings account to your checking account. Is there anything else I can help you with?"
+      },
+      {
+        "turn": 10,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 47.12,
+        "end_s": 49.72,
+        "text": "That's actually all I need for today. Thank you so much."
+      },
+      {
+        "turn": 11,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 48.44,
+        "end_s": 50.16,
+        "text": "Thank you for calling. Have a great day."
+      },
+      {
+        "turn": 12,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 53.6,
+        "end_s": 54.36,
+        "text": "You too. Bye."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to transfer $133 from her savings to her checking account.",
+      "agent_action": "The agent processed a $133 transfer from savings to checking.",
+      "outcome": "The transfer was completed; the customer stated there was nothing else needed."
+    },
+    "sentiment": {
+      "label": "positive",
+      "justification": "Customer expresses gratitude and closes the call politely.",
+      "evidence": "Thank you so much.",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 12.2%.",
+      "Word error rate (agent side): 1.4%.",
+      "4 turn(s) overlap the other speaker; their order is approximate."
+    ]
+  },
+  {
+    "call_id": "c09408163cb14e39",
+    "speakers": {
+      "Speaker 1": "Customer",
+      "Speaker 2": "Agent"
+    },
+    "transcript": [
+      {
+        "turn": 1,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 2.51,
+        "end_s": 7.15,
+        "text": "Hello, this is Harper Valley National Bank. My name is Michael. How can I help you today?"
+      },
+      {
+        "turn": 2,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 10.06,
+        "end_s": 17.07,
+        "text": "Hi, my name is Jennifer Rodriguez. I would like to transfer money between my accounts."
+      },
+      {
+        "turn": 3,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 17.31,
+        "end_s": 19.11,
+        "text": "What is the transfer amount?"
+      },
+      {
+        "turn": 4,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 23.22,
+        "end_s": 26.66,
+        "text": "The amount is $159 from"
+      },
+      {
+        "turn": 5,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 26.48,
+        "end_s": 28.34,
+        "text": "What is the source account"
+      },
+      {
+        "turn": 6,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 32.42,
+        "end_s": 33.4,
+        "text": "my checking account,"
+      },
+      {
+        "turn": 7,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 33.08,
+        "end_s": 36.12,
+        "text": "and what is the destination account?"
+      },
+      {
+        "turn": 8,
+        "speaker": "Speaker 1",
+        "role": "Customer",
+        "start_s": 39.73,
+        "end_s": 40.55,
+        "text": "my savings account."
+      },
+      {
+        "turn": 9,
+        "speaker": "Speaker 2",
+        "role": "Agent",
+        "start_s": 42.55,
+        "end_s": 55.19,
+        "text": "$159 has been transferred from your checking account to your savings account. Is there anything else I can help you with? Thank you for calling. Have a great day."
+      }
+    ],
+    "summary": {
+      "customer_issue": "The customer wanted to transfer $159 from her checking to her savings account.",
+      "agent_action": "The agent confirmed and processed the transfer of $159 from checking to savings.",
+      "outcome": "The transfer was completed; the call ended with a thank-you and closing message."
+    },
+    "sentiment": {
+      "label": "neutral",
+      "justification": "Customer makes a straightforward request with no emotional tone or expression.",
+      "evidence": "I would like to transfer money between my accounts.",
+      "beginning": "neutral",
+      "end": "neutral",
+      "change": "same"
+    },
+    "notes": [
+      "Simulated (role-play) call from the HarperValleyBank dataset; transcript produced by Whisper medium.en.",
+      "Word error rate (customer side): 9.1%.",
+      "Word error rate (agent side): 0.0%."
+    ]
+  }
+]
