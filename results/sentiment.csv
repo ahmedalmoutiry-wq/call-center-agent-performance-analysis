@@ -1,0 +1,58 @@
+call_id,task_type,sentiment,justification,evidence,evidence_is_customer_quote,start_label,end_label,start_to_end,classifier_label,dataset_label,parse_ok,raw_output
+08f360b3f3b844ef,check balance,positive,Customer expresses satisfaction and closes the call politely.,Fantastic. That's all I needed.,True,neutral,positive,improved,neutral,neutral,True,"{""sentiment"": ""positive"", ""justification"": ""Customer expresses satisfaction and closes the call politely."", ""evidence"": ""Fantastic. That's all I needed.""}"
+09fc75fc02ea4b46,order checks,neutral,Customer makes a polite request and ends the call without expressing emotion or satisfaction.,"No, that was it",True,neutral,positive,improved,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request and ends the call without expressing emotion or satisfaction."", ""evidence"": ""No, that was it""}"
+0dee81761a5c45f9,check balance,neutral,Customer makes a polite request with no emotional tone or expression.,I need to check my account balance,True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request with no emotional tone or expression."", ""evidence"": ""I need to check my account balance""}"
+0f87dc392db84250,order checks,neutral,Customer makes a polite request and ends the call without expressing emotion or satisfaction.,"No, that's it. Thank you.",True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request and ends the call without expressing emotion or satisfaction."", ""evidence"": ""No, that's it. Thank you.""}"
+37a7a35a1e244820,get branch hours,positive,Customer expresses gratitude and politely concludes the call without frustration or dissatisfaction.,Thank you so much,True,neutral,neutral,same,neutral,positive,True,"{
+  ""sentiment"": ""positive"",
+  ""justification"": ""Customer expresses gratitude and politely concludes the call without frustration or dissatisfaction."",
+  ""evidence"": ""Thank you so much""
+}"
+3bb5582020c24ae9,pay bill,neutral,Customer makes polite requests with no emotional expression or frustration.,"Hi, my name is James Garcia. I would like to pay a bill.",True,neutral,neutral,same,neutral,neutral,True,"{
+  ""sentiment"": ""neutral"",
+  ""justification"": ""Customer makes polite requests with no emotional expression or frustration."",
+  ""evidence"": ""Hi, my name is James Garcia. I would like to pay a bill.""
+}"
+45c7998bd5eb4101,schedule appointment,neutral,Customer makes a polite request with no emotional expression or sentiment.,I would like to schedule an appointment,True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request with no emotional expression or sentiment."", ""evidence"": ""I would like to schedule an appointment""}"
+51cb5e31125c4235,get branch hours,positive,Customer expresses gratitude and polite acknowledgment throughout the interaction.,Thank you so much.,True,neutral,positive,improved,positive,positive,True,"{
+  ""sentiment"": ""positive"",
+  ""justification"": ""Customer expresses gratitude and polite acknowledgment throughout the interaction."",
+  ""evidence"": ""Thank you so much.""
+}"
+663201e33f1a4e38,transfer money,neutral,Customer makes a polite request with no emotional expression or clear sentiment.,I don't know. It looks like we should be good.,True,neutral,positive,improved,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request with no emotional expression or clear sentiment."", ""evidence"": ""I don't know. It looks like we should be good.""}"
+7394fcc2bcb94c69,replace card,positive,Customer expresses satisfaction with the resolution and ends the call politely and warmly.,Great. Thank you.,True,neutral,positive,improved,positive,positive,True,"{
+  ""sentiment"": ""positive"",
+  ""justification"": ""Customer expresses satisfaction with the resolution and ends the call politely and warmly."",
+  ""evidence"": ""Great. Thank you.""
+}"
+796158bf207f4888,reset password,neutral,Customer makes a polite request and ends the call without expressing emotion or frustration.,"No, that was going to be it for today. Thank you.",True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request and ends the call without expressing emotion or frustration."", ""evidence"": ""No, that was going to be it for today. Thank you.""}"
+7f3d383f8aff498d,check balance,neutral,Customer makes a polite request and expresses no emotion beyond basic acknowledgment.,"that is it, thank you very much",True,neutral,positive,improved,positive,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request and expresses no emotion beyond basic acknowledgment."", ""evidence"": ""that is it, thank you very much""}"
+8b04254fc6b447b1,transfer money,positive,Customer expresses gratitude and closes the call politely.,Thank you so much.,True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""positive"", ""justification"": ""Customer expresses gratitude and closes the call politely."", ""evidence"": ""Thank you so much.""}"
+8c86097e491544df,check balance,neutral,Customer makes a polite request and ends the call without expressing emotion or frustration.,"My checking account? Nope, that was it.",True,neutral,positive,improved,neutral,positive,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request and ends the call without expressing emotion or frustration."", ""evidence"": ""My checking account? Nope, that was it.""}"
+8cee43b11a144b7d,pay bill,neutral,Customer makes a polite request with no emotional expression or feedback beyond standard transactional statements.,"I would like to pay a bill. Nope, that's gonna be it. Thank you.",False,neutral,positive,improved,neutral,neutral,True,"{
+  ""sentiment"": ""neutral"",
+  ""justification"": ""Customer makes a polite request with no emotional expression or feedback beyond standard transactional statements."",
+  ""evidence"": ""I would like to pay a bill. Nope, that's gonna be it. Thank you.""
+}"
+92f32a1665c04695,replace card,positive,Customer expresses gratitude and closes the call politely.,"Oh no, it's actually what I need for today. Thank you.",True,negative,neutral,improved,neutral,positive,True,"{""sentiment"": ""positive"", ""justification"": ""Customer expresses gratitude and closes the call politely."", ""evidence"": ""Oh no, it's actually what I need for today. Thank you.""}"
+96c25385230d4172,replace card,positive,Customer expresses gratitude and closes the call politely.,Thank you. Bye.,True,negative,neutral,improved,neutral,neutral,True,"{""sentiment"": ""positive"", ""justification"": ""Customer expresses gratitude and closes the call politely."", ""evidence"": ""Thank you. Bye.""}"
+9e05bd9ca9564089,get branch hours,neutral,"Customer makes a polite, straightforward request without expressing emotion.",my name is Mary Wilson and I would what are the local branch hours?,True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite, straightforward request without expressing emotion."", ""evidence"": ""my name is Mary Wilson and I would what are the local branch hours?""}"
+a35cc473b91f4de0,order checks,positive,Customer expresses gratitude and closes the call politely.,Thank you very much.,True,neutral,positive,improved,neutral,neutral,True,"{""sentiment"": ""positive"", ""justification"": ""Customer expresses gratitude and closes the call politely."", ""evidence"": ""Thank you very much.""}"
+b711d5c6db68429b,reset password,neutral,Customer makes a polite request with no emotional tone or expression of frustration or satisfaction.,I'd like to reset my password.,True,neutral,neutral,same,neutral,neutral,True,"{
+  ""sentiment"": ""neutral"",
+  ""justification"": ""Customer makes a polite request with no emotional tone or expression of frustration or satisfaction."",
+  ""evidence"": ""I'd like to reset my password.""
+}"
+c09408163cb14e39,transfer money,neutral,Customer makes a straightforward request with no emotional tone or expression.,I would like to transfer money between my accounts.,True,neutral,neutral,same,neutral,neutral,True,"{
+  ""sentiment"": ""neutral"",
+  ""justification"": ""Customer makes a straightforward request with no emotional tone or expression."",
+  ""evidence"": ""I would like to transfer money between my accounts.""
+}"
+c0c8d261058841ac,schedule appointment,neutral,Customer makes a polite request with no emotional expression or feedback.,I would like to schedule an appointment.,True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request with no emotional expression or feedback."", ""evidence"": ""I would like to schedule an appointment.""}"
+cb7bc09bb8d440dc,schedule appointment,positive,"Customer expresses gratitude and closes the call politely, indicating satisfaction with the service.",Thank you so much.,True,neutral,positive,improved,neutral,neutral,True,"{
+  ""sentiment"": ""positive"",
+  ""justification"": ""Customer expresses gratitude and closes the call politely, indicating satisfaction with the service."",
+  ""evidence"": ""Thank you so much.""
+}"
+d3baa07088cf4c76,pay bill,positive,Customer expresses gratitude and closes the call politely.,thank you so much,True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""positive"", ""justification"": ""Customer expresses gratitude and closes the call politely."", ""evidence"": ""thank you so much""}"
+f92c9662d77a4645,reset password,neutral,Customer makes a polite request and ends the call without expressing emotion or frustration.,Now that'll be all.,True,neutral,neutral,same,neutral,neutral,True,"{""sentiment"": ""neutral"", ""justification"": ""Customer makes a polite request and ends the call without expressing emotion or frustration."", ""evidence"": ""Now that'll be all.""}"
