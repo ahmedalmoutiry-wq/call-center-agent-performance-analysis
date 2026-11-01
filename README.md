@@ -30,6 +30,21 @@ The human reference transcripts are used **only to evaluate** our outputs. They 
 
 **Why this dataset.** 12 datasets and 8 papers were compared in [`research/dataset_survey.xlsx`](research/dataset_survey.xlsx). HarperValleyBank is the only candidate that passed all four required criteria (customer-service conversations, audio, a license that allows our use, free access) and also met all six desirable ones: human reference transcripts for both speakers, speaker-separated audio, role metadata, a published paper, extra labels for validation, and a manageable size. Real call-center audio is rarely public: datasets with real calls either withhold the audio for privacy, provide no transcripts, or are paid.
 
+| Dataset | Audio | Human transcripts | License | Decision |
+|---|---|---|---|---|
+| **HarperValleyBank** | Yes (one file per speaker) | Yes | CC BY 4.0 | **Selected** |
+| SpokenWOZ | Yes (two tracks) | Agent side only (customer side is ASR) | CC BY-NC 4.0 | Runner-up: not a call center; no human customer reference |
+| AIxBlock role-play call center (moods) | Yes, 40 recordings | Not mentioned | CC BY-NC 4.0 | Too small; no reference for WER |
+| CallCenterEN (AIxBlock 92k) | No (withheld for privacy) | ASR only | CC BY-NC 4.0 | No audio |
+| ABCD (ASAPP) | No (text chat) | Typed text | MIT | No audio |
+| Switchboard / Fisher (LDC) | Yes | Yes | Paid LDC license | Not customer service; paid |
+| Arabic Call Domain ASR Benchmark (2024) | Yes (per paper) | Yes | Not stated | Public access not confirmed |
+| InfoBayAI Arabic call center | Sample only, gated | No | CC BY 4.0 (sample) | No reference transcripts |
+| AxonData multilingual call center | 11-recording sample | Yes | CC BY-NC 4.0 (sample) | Sample too small |
+| SADA (SDAIA) | Yes | Yes | CC BY-NC-SA 4.0 | TV shows, not calls; subscription |
+
+Full details, links, papers and selection criteria: [`research/dataset_survey.xlsx`](research/dataset_survey.xlsx).
+
 **Important notes**
 - The calls are **simulated** (scripted role-play by crowd workers), not real customer calls.
 - **Data-quality finding:** in 37 of 1,446 calls (2.6%), the agent's voice is stored in the `caller/` audio folder. We verified the roles from the transcript content and the audio energy, and map *audio file → channel → role* instead of trusting folder names (notebook 01).
