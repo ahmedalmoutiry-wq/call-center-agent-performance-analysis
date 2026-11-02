@@ -22,7 +22,7 @@ The human reference transcripts are used **only to evaluate** our outputs. They 
 
 ## Presentation
 
-Slides: [`presentation/slides.pdf`](presentation/slides.pdf) · Recording: PASTE_VIDEO_LINK_HERE (Arabic, about 10 minutes)
+Slides: [`presentation/slides.pdf`](presentation/slides.pdf) · Recording: https://drive.google.com/file/d/1FIAuClMLyRRpVieYVxIyZWMowDM3cxpz/view?usp=sharing (Arabic, about 10 minutes)
 
 ## Dataset
 
